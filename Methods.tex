@@ -1,6 +1,12 @@
 \section{Computational Methods}
 
-Molecular dynamics simulations were performed using the Amber 11 software suite.\cite{Case2010}
+Molecular dynamics simulations were performed using the Amber 11 software suite.\cite{Case2010} In this study we incorporate polarizable models for the \wat~and \suldiox~molecules. Fully polarizable models have been used previously in studies on interfacial systems because they are known to more accurately reproduce interfacial structure and free energy profiles.\cite{Wick2007,Rivera2006,Dang1998} The \wat~model used is the POL3 model,\cite{Caldwell1995} and for \suldiox we used the model of Dang, et al. that places a single polarizable center on the sulfur atom.\cite{Baer2010}
+
+All simulations began with an equilibrated box of 900 \wat~molecules, with sides of length 30\angs. The simulations all employed periodic boundaries to create an ``infinite-slab'' geometry for the water phase. One set of simulations involved adding a single \suldiox~to the center of the water box and then allowing the system to equilibrate over 1 ns of simulation. The ensuing simulations are herein referred to as the ``surface equilibrated'' simulations. 
+
+A second set of simulations involved preparing a water slab as explained above. A single \suldiox~was then introduced 20\angs above the slab, with the sulfur atom tethered to its initial position. The system was evolved for 1 ns, taking coordinate snapshots every 20 ps to create 50 starting points for further simulations. Steered molecular dynamics (SMD) were then performed to guide the \suldiox~down towards a tethered water 15\angs under the water slab surface by applying a small steering force.\cite{Isralewitz2001} The \suldiox~thus passed through the continuum of environments from gas phase to hydrate complex interaction, water surface adsorption, and absorption into the bulk of the neat-\wat~slab.
+
+The third set of simulations were performed similarly to the neat-\wat~SMD simulations, but the water slab and gas phase above it were first loaded with \suldiox. The water slab was loaded with 22 \suldiox molecules, which represent a saturation level coinciding with the Henry's law constant for \suldiox~in \wat. The gas phase was populated with 50 \suldiox~molecules representing approx. 50 atm of \suldiox~pressure.
 
 \subsection{Steered Molecular Dynamics}
 

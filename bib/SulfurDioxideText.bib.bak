@@ -1,6 +1,88 @@
 % This file was created with JabRef 2.3.1.
 % Encoding: ISO8859_1
 
+@ARTICLE{Baer2010,
+  author = {Baer, Marcel and Mundy, Christopher J. and Chang, Tsun-Mei and Tao,
+	Fu-Ming and Dang, Liem X.},
+  title = {Interpreting Vibrational Sum-Frequency Spectra of Sulfur Dioxide
+	at the Air/Water Interface: A Comprehensive Molecular Dynamics Study},
+  journal = {Journal of Physical Chemistry B},
+  year = {2010},
+  volume = {114},
+  pages = {7245-7249},
+  number = {21},
+  month = {JUN 3},
+  abstract = {We investigated the solvation and spectroscopic properties of SO2
+	at the air/water interface using molecular simulation. Molecular
+	interactions from both Kohn-Sham (KS) density functional theory (DFT)
+	and classical polarizable models were used to understand the properties
+	of SO2:(H2O)(x) complexes in the vicinity of the air/water interface.
+	The KS-DFT was included to allow comparisons with vibrational sum-frequency
+	spectroscopy through the identification of surface SO2:(H2O)(x) complexes.
+	Using our simulation results, we were able to develop a much more
+	detailed picture of the surface structure of SO2 consistent with
+	spectroscopic data obtained by Richmond and co-workers (J. Am. Chem.
+	Soc. 2005, 127, 16806). We also found many similarities and differences
+	between the two interaction potentials, including a noticeable weakness
+	of the classical potential model in reproducing the asymmetric hydrogen
+	bonding of water with SO2 due to its inability to account for SO2
+	resonance structures.},
+  address = {1155 16TH ST, NW, WASHINGTON, DC 20036 USA},
+  affiliation = {Mundy, CJ (Reprint Author), Pacific NW Natl Lab, Div Mat Sci, Richland,
+	WA 99352 USA. {[}Mundy, Christopher J.; Dang, Liem X.] Pacific NW
+	Natl Lab, Div Mat Sci, Richland, WA 99352 USA. {[}Baer, Marcel] Ruhr
+	Univ Bochum, Lehrstuhl Theoret Chem, D-44780 Bochum, Germany. {[}Chang,
+	Tsun-Mei] Univ Wisconsin Parkside, Dept Chem, Kenosha, WI 53141 USA.
+	{[}Tao, Fu-Ming] Calif State Univ Fullerton, Dept Chem \& Biochem,
+	Fullerton, CA 92603 USA.},
+  author-email = {chris.mundy@pnl.gov liem.dang@pnl.gov},
+  doc-delivery-number = {600RH},
+  doi = {10.1021/jp100310s},
+  funding-acknowledgement = {Division of Chemical Sciences, Biosciences and Geosciences Office
+	of Basic Energy Sciences, U.S. Department of Energy (DOE) {[}DE-AC05-00OR22725,
+	DE-AC02-06CH11357]; INCITE ; BlueGene/P at Argonne National Laboratory
+	; Deutsche Forschungsgemeinschaft (DFG) ; Fonds der Chemischen Industrie
+	(FCI) },
+  funding-text = {This work was performed at Pacific: Northwest National Laboratory
+	(PNNL) and was supported by the Division of Chemical Sciences, Biosciences
+	and Geosciences Office of Basic Energy Sciences, U.S. Department
+	of Energy (DOE). PNNL is operated by Battelle for DOE. C.J.M. thanks
+	I.-F. Will Kuo at Lawrence Livermore National Laboratories for fruitful
+	discussions about the technical details of the DFT simulations. Calculations
+	were enabled by a 2005-2010 INCITE award to C.J.M. on the CRAY XT4
+	(using resources of the National Center for Computational Sciences
+	at Oak Ridge National Laboratory (ORNL), which is supported by the
+	Office of Science of the U.S. DOE under Contract No. DE-AC05-00OR22725)
+	and the BlueGene/P at Argonne National Laboratory (resources of the
+	Argonne Leadership Computing Facility at Argonne National Laboratory,
+	which is supported by the Office of Science of the U.S. DOE under
+	Contract No. DE-AC02-06CH11357). C.J.M. also acknowledges the resource
+	NWice located in the Environmental Molecular Sciences Laboratory
+	at PNNL. M. B. gratefully acknowledges partial financial support
+	by Deutsche Forschungsgemeinschaft (DFG) and by Fonds der Chemischen
+	Industrie (FCI) through grants to Dominik Marti (Bochum).},
+  issn = {1520-6106},
+  journal-iso = {J. Phys. Chem. B},
+  keywords-plus = {LIQUID-VAPOR INTERFACE; AB-INITIO; SO2; WATER; SURFACE; COMPLEX; ICE},
+  language = {English},
+  number-of-cited-references = {21},
+  publisher = {AMER CHEMICAL SOC},
+  subject-category = {Chemistry, Physical},
+  times-cited = {0},
+  type = {Article},
+  unique-id = {ISI:000278004300013}
+}
+
+@ARTICLE{Caldwell1995,
+  author = {J W Caldwell and P A Kollman},
+  journal = {J. Phys. Chem.},
+  year = {1995},
+  volume = {99},
+  pages = {6208-6219},
+  owner = {eric},
+  timestamp = {2007.04.13}
+}
+
 @BOOK{Case2010,
   title = {Amber 11},
   publisher = {University of California, San Francisco.},
@@ -16,6 +98,168 @@
 	P.A. Kollman},
   owner = {shachar},
   timestamp = {2010.12.17}
+}
+
+@ARTICLE{Dang1998,
+  author = {Dang, LX},
+  title = {Importance of polarization effects in modeling the hydrogen bond
+	in water using classical molecular dynamics techniques},
+  journal = {Journal of Physical Chemistry B},
+  year = {1998},
+  volume = {102},
+  pages = {620-624},
+  number = {3},
+  month = {JAN 15},
+  abstract = {The importance of polarization effects in the hydrogen-bonding structures
+	of water is evaluated using classical molecular dynamics techniques
+	with a polarizable potential model {[}Dang, L. X.; Chang, T.-M. J.
+	Chem. Phys. 1997, 106, 8149]. The computed water monomer dipole moment
+	in water clusters is significantly enhanced because of induction
+	effects created by other water molecules. In particular, the magnitude
+	of polarization effects reported recently by high-level ab initio
+	calculations {[}Gregory, J. K.; Clary, D. C.; Liu, K.: Brown, M.
+	G.; Saykally, R. J. Science 1997, 275, 814] is well-reproduced in
+	our simulations. The structure of liquid water at ambient and supercritical
+	conditions is investigated. The evolution of the hydrogen-bonding
+	peak in g(OH) is in good agreement with recent data obtained by neutron
+	diffraction with isotopic substitution experiments (NDIS) {[}Postorino,
+	P.; Tromp, RH.; Ricci, M. A.; Soper, A. K.; Neilson, G. W. Nature
+	1993, 366, 668]. This behavior can be attributed to the variability
+	of water dipole moments in different environments, At conditions
+	near critical temperature, in contrast with the interpretation of
+	the NDIS data, the data from our simulations indicated that a considerable
+	degree of hydrogen bonding remains at this state. This result is
+	in good agreement with very recent proton NMR chemical shift measurements.},
+  issn = {1089-5647},
+  owner = {eric},
+  timestamp = {2009.03.17},
+  unique-id = {ISI:000071802700020}
+}
+
+@ARTICLE{Isralewitz2001,
+  author = {Isralewitz, B and Baudry, J and Gullingsrud, J and Kosztin, D and
+	Schulten, K},
+  title = {Steered molecular dynamics investigations of protein function},
+  journal = {JOURNAL OF MOLECULAR GRAPHICS \& MODELLING},
+  year = {2001},
+  volume = {19},
+  pages = {13-25},
+  number = {1},
+  abstract = {Molecular recognition and mechanical properties of proteins govern
+	molecular processes in the cell that can cause disease and call be
+	targeted for drug design. Single molecule measurement techniques
+	have greatly advanced knowledge but cannot resolve enough detail
+	to be interpreted in terms of protein structure. We seek to complement
+	the observations through so-called Steered Molecular Dynamics (SMD)
+	simulations that link directly to experiments and provide atomic-level
+	descriptions of the underlying events. Such a research program has
+	been initiated in our group and has involved for example, studies
+	of elastic properties of immunoglobulin and fibronectin domains as
+	well as the binding of biotin and avidin. In this article we explain
+	the SMD method and suggest how it can be applied to the function
+	of three systems that ale the focus of modern molecular biology research:
+	force transduction by the muscle protein titin and extracellular
+	matrix protein fibronectin, recognition of antibody-antigene pails,
+	and ion selective conductivity of the K+ channel. (C) 2001 by Elsevier
+	Science Inc.},
+  address = {655 AVENUE OF THE AMERICAS, NEW YORK, NY 10010 USA},
+  affiliation = {Schulten, K (Reprint Author), Univ Illinois, Beckman Inst, Urbana,
+	IL 61801 USA. Univ Illinois, Beckman Inst Adv Sci \& Technol, Urbana,
+	IL 61801 USA.},
+  doc-delivery-number = {432EJ},
+  issn = {1093-3263},
+  journal-iso = {J. Mol. Graph.},
+  keywords-plus = {TITIN IMMUNOGLOBULIN DOMAINS; ATOMIC-FORCE MICROSCOPY; FREE-ENERGY
+	DIFFERENCES; COMPUTER-SIMULATIONS; LIGAND-BINDING; MEAN FORCE; ANTIBODY;
+	PATHWAYS; ADHESION; MUSCLE},
+  language = {English},
+  number-of-cited-references = {77},
+  publisher = {ELSEVIER SCIENCE INC},
+  subject-category = {Biochemical Research Methods; Biochemistry \& Molecular Biology; Computer
+	Science, Interdisciplinary Applications; Crystallography; Mathematical
+	\& Computational Biology},
+  times-cited = {88},
+  type = {Proceedings Paper},
+  unique-id = {ISI:000168679000003}
+}
+
+@ARTICLE{Rivera2006,
+  author = {Rivera, Jose L. and Starr, Francis W. and Paricaud, Patrice and Cummings,
+	Peter T.},
+  title = {Polarizable contributions to the surface tension of liquid water},
+  journal = {Journal of Chemical Physics},
+  year = {2006},
+  volume = {125},
+  number = {9},
+  month = {SEP 7},
+  abstract = {Surface tension, gamma, strongly affects interfacial properties in
+	fluids. The degree to which polarizability affects gamma in water
+	is thus far not well established. To address this situation, we carry
+	out molecular dynamics simulations to study the interfacial forces
+	acting on a slab of liquid water surrounded by vacuum using the Gaussian
+	charge polarizable (GCP) model at 298.15 K. The GCP model incorporates
+	both a fixed dipole due to Gaussian distributed charges and a polarizable
+	dipole. We find a well-defined bulklike region forms with a width
+	of approximate to 31 A. The average density of the bulklike region
+	agrees with the experimental value of 0.997 g/cm(3). However, we
+	find that the orientation of the molecules in the bulklike region
+	is strongly influenced by the interfaces, even at a distance five
+	molecular diameters from the interface. Specifically, the orientations
+	of both the permanent and induced dipoles show a preferred orientation
+	parallel to the interface. Near the interface, the preferred orientation
+	of the dipoles becomes more pronounced and the average magnitude
+	of the induced dipoles decreases monotonically. To quantify the degree
+	to which molecular orientation affects gamma, we calculate the contributions
+	to gamma from permanent dipolar interactions, induced dipolar interactions,
+	and dispersion forces. We find that the induced dipole interactions
+	and the permanent dipole interactions, as well as the cross interactions,
+	have positive contributions to gamma, and therefore contribute stability
+	to the interface. The repulsive core interactions result in a negative
+	contribution to gamma, which nearly cancels the positive contributions
+	from the dipoles. The large negative core contributions to gamma
+	are the result of small oxygen-oxygen separation between molecules.
+	These small separations occur due to the strong attractions between
+	hydrogen and oxygen atoms. The final predicted value for gamma (68.65
+	mN/m) shows a deviation of approximate to 4\% of the experimental
+	value of 71.972 mN/m. The inclusion of polarization is critical for
+	this model to produce an accurate value. (c) 2006 American Institute
+	of Physics.},
+  article-number = {094712},
+  doi = {10.1063/1.2345063},
+  issn = {0021-9606},
+  owner = {eric},
+  timestamp = {2009.03.18},
+  unique-id = {ISI:000240351500048}
+}
+
+@ARTICLE{Wick2007,
+  author = {Wick, Collin D. and Kuo, I-Feng W. and Mundy, Christopher J. and
+	Dang, Liem X.},
+  title = {The effect of polarizability for understanding the molecular structure
+	of aqueous interfaces},
+  journal = {Journal of Chemical Theory and Computation},
+  year = {2007},
+  volume = {3},
+  pages = {2002-2010},
+  number = {6},
+  month = {NOV-DEC},
+  abstract = {A review is presented on recent progress of the application of molecular
+	dynamics simulation methods with the inclusion of polarizability
+	for the understanding of aqueous interfaces. Comparisons among a
+	variety of models, including those based on density functional theory
+	of the neat air-water interface, are given. These results are used
+	to describe the effect of polarizability on modeling the microscopic
+	structure of the neat air-water interface, including comparisons
+	with recent spectroscopic studies. Also, the understanding of the
+	contribution of polarization to the electrostatic potential across
+	the air-water interface is elucidated. Finally, the importance of
+	polarizability for understanding anion transfer across an organic-water
+	interface is shown.},
+  doi = {10.1021/ct700098z},
+  issn = {1549-9618},
+  owner = {eric},
+  timestamp = {2009.03.17},
+  unique-id = {ISI:000251024200011}
 }
 
 @comment{jabref-meta: selector_publisher:}
