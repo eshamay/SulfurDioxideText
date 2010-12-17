@@ -1,0 +1,28 @@
+% This file was created with JabRef 2.3.1.
+% Encoding: ISO8859_1
+
+@BOOK{Case2010,
+  title = {Amber 11},
+  publisher = {University of California, San Francisco.},
+  year = {2010},
+  author = {Case and T.A. Darden and T.E. Cheatham III and C.L. Simmerling and
+	J. Wang and R.E. Duke and R. Luo and R.C. Walker and W. Zhang and
+	K.M. Merz and B. Roberts and B. Wang and S. Hayik and A. Roitberg
+	and G. Seabra and I. Kolossváry and K.F. Wong and F. Paesani and
+	J. Vanicek and J. Liu and X. Wu and S.R. Brozell and T. Steinbrecher
+	and H. Gohlke and Q. Cai and X. Ye and J. Wang and M.-J. Hsieh and
+	G. Cui and D.R. Roe and D.H. Mathews and M.G. Seetin and C. Sagui
+	and V. Babin and T. Luchko and S. Gusarov and A. Kovalenko and and
+	P.A. Kollman},
+  owner = {shachar},
+  timestamp = {2010.12.17}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
