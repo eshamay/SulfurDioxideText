@@ -1,8 +1,12 @@
 \section{Background}
 
+\subsection {Aqueous Surface Location}
+
+	The analyses performed in this study often relate results to the location of the gas-liquid interface. An interface, however, is a dynamic surface that is neither flat nor stationary. Previous studies have used the technique of fitting a lineshape to the density profile of the water or solute to extract interfacial shape and location parameters.\cite{find something for this} Often a hyperbolic tangent function is fit, and values for the ``Gibb's dividing surface'' location, and interfacial width are determined.\cite{couple papers about the tangent function} However, in long simulations the location of the interface will change, and the net motion of surface waters will alter the interfacial width at any given timestep. Thus, the averaged density profile fitting will capture average widths and locations, not instantaneous ones. This problem has been addressed previously by an algorithmic method of finding an instantaneous interface for each timestep.\cite{the paper that addresses this} In this work we attack the problem by finding an instantaneous water surface location for each timestep by averaging the locations of the topmost 20 water molecules. This provides us with a consistent measure of the top water surface's location for relating our analyses.
+
 \subsection{Analysis of Orientation}
 
-	Analyses of the simulated systems were performed to characterize the orientation of \suldiox in various environments above, within, and below the surface water region. The orientation of the surface molecules as \suldiox adsorbs and interacts with water is a property of any hydrate complex formation that takes places. Better understanding of the molecular orientational distributions will help elucidate the chemistry occurring during the adsorption process.
+	The simulated systems were analyzed to characterize the orientation of \wat~and \suldiox~in various environments above, within, and below the surface region. The orientation of the surface molecules as \suldiox~adsorbs and interacts with water is a property of any hydrate complex formation that takes places. Better understanding of the molecular orientational distributions will help elucidate the chemistry occurring during the adsorption process.
 
 	The two molecules studied, \wat~and \suldiox, and similarly shaped with a C2$_v$ axis along their bisectors, and a molecular plane is defined by their three atoms. An body-fixed frame is defined for \wat~and \suldiox~as shown in figure \ref{fig:molecular-frame}. In each analysis a world-fixed reference axis is used that is the long axis of the system's periodic cell (normal to the plane of the water surface) unless otherwise noted. The orientational analyses presented herein focus on two angles used to define molecular orientation in space. 
 	
@@ -28,11 +32,6 @@
 		\label{fig:water-angles}
 	\end{center}
 \end{figure}
-
-\subsubsection{Water Orientation}
-The orientation of water molecules at the 
-
-\subsubsection{\suldiox~Orientation}
 
 \subsection{Bonding Analysis}
 \subsubsection{Nearest Neighbor}
