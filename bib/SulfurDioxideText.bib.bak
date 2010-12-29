@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.5.
+% This file was created with JabRef 2.3.1.
 % Encoding: ISO8859_1
 
 @ARTICLE{Baer2010,
@@ -102,16 +102,16 @@
 
 @ARTICLE{Chowdhary2006,
   author = {Chowdhary, Janamejaya and Ladanyi, Branka M.},
-  title = {{Water-hydrocarbon interfaces: Effect of hydrocarbon branching on
-	interfacial structure}},
+  title = {Water-hydrocarbon interfaces: Effect of hydrocarbon branching on
+	interfacial structure},
   journal = {Journal of Physical Chemistry B},
-  year = {{2006}},
-  volume = {{110}},
-  pages = {{15442-15453}},
-  number = {{31}},
-  month = {{AUG 10}},
+  year = {2006},
+  volume = {110},
+  pages = {15442-15453},
+  number = {31},
+  month = {AUG 10},
   __markedentry = {[eric]},
-  abstract = {{Molecular dynamics simulation are performed for the water/hydrocarbon
+  abstract = {Molecular dynamics simulation are performed for the water/hydrocarbon
 	system to study the effect of hydrocarbon branching on interfacial
 	properties. The following two series of hydrocarbons are considered:
 	(1) n-pentane, 2-methylpentane, and 2,2,4-trimethyl pentane (constant
@@ -131,28 +131,28 @@
 	the hydrocarbon phase and parallel to the interface. Hydrocarbon
 	molecules in series 1 orient along the interface with the more branched
 	molecule better aligned. For molecules in series 2, the larger molecular
-	length reduces the alignment of molecules along the interface.}},
-  address = {{1155 16TH ST, NW, WASHINGTON, DC 20036 USA}},
-  affiliation = {{Chowdhary, J (Reprint Author), Colorado State Univ, Dept Chem, Ft
+	length reduces the alignment of molecules along the interface.},
+  address = {1155 16TH ST, NW, WASHINGTON, DC 20036 USA},
+  affiliation = {Chowdhary, J (Reprint Author), Colorado State Univ, Dept Chem, Ft
 	Collins, CO 80523 USA. Colorado State Univ, Dept Chem, Ft Collins,
-	CO 80523 USA.}},
-  author-email = {{janamej@lamar.colostate.edu Branka.Ladanyi@colostate.edu}},
-  doc-delivery-number = {{069QM}},
-  doi = {{10.1021/jp060440y}},
-  issn = {{1520-6106}},
-  journal-iso = {{J. Phys. Chem. B}},
-  keywords-plus = {{LIQUID-LIQUID INTERFACE; MONTE-CARLO SIMULATIONS; MOLECULAR-DYNAMICS;
+	CO 80523 USA.},
+  author-email = {janamej@lamar.colostate.edu Branka.Ladanyi@colostate.edu},
+  doc-delivery-number = {069QM},
+  doi = {10.1021/jp060440y},
+  issn = {1520-6106},
+  journal-iso = {J. Phys. Chem. B},
+  keywords-plus = {LIQUID-LIQUID INTERFACE; MONTE-CARLO SIMULATIONS; MOLECULAR-DYNAMICS;
 	LIQUID/LIQUID INTERFACES; FREE ENERGY; X-RAY; SURFACES; HEXANE; ALGORITHM;
-	SYSTEMS}},
-  language = {{English}},
-  number-of-cited-references = {{56}},
+	SYSTEMS},
+  language = {English},
+  number-of-cited-references = {56},
   owner = {eric},
-  publisher = {{AMER CHEMICAL SOC}},
-  subject-category = {{Chemistry, Physical}},
-  times-cited = {{39}},
+  publisher = {AMER CHEMICAL SOC},
+  subject-category = {Chemistry, Physical},
+  times-cited = {39},
   timestamp = {2010.12.22},
-  type = {{Article}},
-  unique-id = {{ISI:000239463300055}}
+  type = {Article},
+  unique-id = {ISI:000239463300055}
 }
 
 @ARTICLE{Dang1998,
@@ -302,6 +302,97 @@
   owner = {eric},
   timestamp = {2009.03.18},
   unique-id = {ISI:000240351500048}
+}
+
+@ARTICLE{Shamay2010,
+  author = {Shamay, Eric S. and Richmond, Geraldine L.},
+  title = {Ionic Disruption of the Liquid-Liquid Interface},
+  journal = {Journal of Physical Chemistry C},
+  year = {2010},
+  volume = {114},
+  pages = {12590-12597},
+  number = {29},
+  month = {JUL 29},
+  abstract = {The interface formed between an aqueous salt solution and a hydrophobic
+	liquid has been investigated using molecular dynamics simulations.
+	The salt solutions of NaCl, NaNO3, and Na2SO4 have been studied to
+	determine their presence and distribution in the interfacial region
+	and their effect on interfacial water molecules. Density and orientation
+	profiles reveal the formation of ionic double layers with widths
+	that vary with the respective anions' surface affinities and effects
+	on the geometry of interfacial water molecules. The NO3- anion shows
+	enhanced surface concentration above that of the bulk aqueous phase,
+	whereas the Cl- and SO42- anions exhibit similar characteristics
+	as are found for corresponding air-water interfaces. Sum frequency
+	spectra were calculated for the OH vibrational modes of water to
+	show the effect of the various ions on the hydrogen-bonding network
+	strength of interfacial water. These calculated spectra show good
+	agreement with the conclusions and observations of our recent spectroscopic
+	experimental study, while providing important new detailed insights
+	into interfacial behavior to augment that study.},
+  address = {1155 16TH ST, NW, WASHINGTON, DC 20036 USA},
+  affiliation = {Richmond, GL (Reprint Author), Univ Oregon, Dept Chem, 210 Willamette
+	Hall,1253 Univ Ave, Eugene, OR 97405 USA. {[}Shamay, Eric S.; Richmond,
+	Geraldine L.] Univ Oregon, Dept Chem, Eugene, OR 97405 USA.},
+  author-email = {richmond@uoregon.edu},
+  doc-delivery-number = {627VE},
+  doi = {10.1021/jp1023668},
+  funding-acknowledgement = {National Science Foundation {[}CHE-0652531]; US Department of Education
+	{[}P200A070436]},
+  funding-text = {The authors wish to thank the National Science Foundation (Grant CHE-0652531)
+	and the US Department of Education Graduate Assistance in Areas of
+	National Need (GAANN) program (Grant P200A070436) for support of
+	this research.},
+  issn = {1932-7447},
+  journal-iso = {J. Phys. Chem. C},
+  keywords-plus = {SUM-FREQUENCY GENERATION; MOLECULAR-DYNAMICS SIMULATIONS; CARBON TETRACHLORIDE-WATER;
+	AIR/WATER INTERFACE; AQUEOUS-SOLUTIONS; VIBRATIONAL SPECTROSCOPY;
+	THEORETICAL-ANALYSIS; VAPOR INTERFACE; HYDROGEN-BOND; SURFACE},
+  language = {English},
+  number-of-cited-references = {55},
+  owner = {shachar},
+  publisher = {AMER CHEMICAL SOC},
+  subject-category = {Chemistry, Physical; Nanoscience \& Nanotechnology; Materials Science,
+	Multidisciplinary},
+  times-cited = {0},
+  timestamp = {2010.12.29},
+  type = {Article},
+  unique-id = {ISI:000280070900031}
+}
+
+@ARTICLE{Wick2006c,
+  author = {Wick, CD and Dang, LX},
+  title = {Distribution, structure, and dynamics of cesium and iodide ions at
+	the H2O-CCl4 and H2O-vapor interfaces},
+  journal = {Journal of Physical Chemistry B},
+  year = {2006},
+  volume = {110},
+  pages = {6824-6831},
+  number = {13},
+  month = {APR 6},
+  abstract = {Molecular dynamics simulations utilizing many-body potentials of H2O-CCl4
+	and H2O-vapor interfaces were carried out at different cesium and
+	iodide ion concentrations to compare ion distribution, interfacial
+	orientational and structural properties, and dynamics. It was found
+	that cesium was repelled by both interfaces, and iodide was active
+	at both interfaces, but to a much greater degree at the H2O-vapor
+	interface. At the interface, the iodide dipole was strongly induced,
+	orienting perpendicular to the interface for both systems, leading
+	to stronger hydrogen bonds with water. For the H2O-CCl4 interface,
+	though, there was a compensation between these strong hydrogen bonds
+	and short to moderate ranged repulsion between iodide and CCl4. Hydrogen
+	bond distance and angular distributions showed weaker water-water
+	hydrogen bonds at both interfaces, but generally stronger water-iodide
+	hydrogen bonds. Both translational and rotational dynamics of water
+	were faster at the interface, while for CCl4, its translational dynamics
+	was slower, but rotational dynamics faster at the interface. For
+	many of the studied systems and species, translational diffusion
+	was found to be anisotropic at both inter-facial and bulk regions.},
+  doi = {10.1021/jp055427c},
+  issn = {1520-6106},
+  owner = {eric},
+  timestamp = {2009.03.17},
+  unique-id = {ISI:000236523100059}
 }
 
 @ARTICLE{Wick2007,
