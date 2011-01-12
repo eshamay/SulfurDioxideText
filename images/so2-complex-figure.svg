@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="so2-complex-figure.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.035971"
+     inkscape:cx="98.329956"
+     inkscape:cy="1329.8561"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="-482.69391"
+       x="-481.31946"
+       id="image3063"
+       xlink:href="file:///home/eric/work/SulfurDioxideText/images/so2complex1.png"
+       height="410.39999"
+       width="380.70001"
+       inkscape:export-filename="/home/eric/work/SulfurDioxideText/images/so2-complex-figure.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <image
+       y="-482.69391"
+       x="-74.895035"
+       id="image3125"
+       xlink:href="file:///home/eric/work/SulfurDioxideText/images/so2-complex-numbered.png"
+       height="410.39999"
+       width="380.70001"
+       inkscape:export-filename="/home/eric/work/SulfurDioxideText/images/so2-complex-figure.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <image
+       y="-482.69391"
+       x="365.77936"
+       id="image3187"
+       xlink:href="file:///home/eric/work/SulfurDioxideText/images/so2-complex-graphed.png"
+       height="371.29999"
+       width="312.20001"
+       inkscape:export-filename="/home/eric/work/SulfurDioxideText/images/so2-complex-figure.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+  </g>
+</svg>
