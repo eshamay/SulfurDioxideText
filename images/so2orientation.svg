@@ -81,6 +81,90 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2455"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2505"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2555"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2605"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2673"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2723"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2793"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2843"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2893"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2943"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3010"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3060"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -92,9 +176,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="-819.87897"
-     inkscape:cy="1335.6832"
+     inkscape:zoom="1.1360354"
+     inkscape:cx="-991.41097"
+     inkscape:cy="1379.5916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -119,36 +203,77 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="-1127.7806"
-       x="-3005.7144"
-       id="image2923"
-       height="1366"
-       width="2400"
-       sodipodi:absref="/home/eric/Documents/SulfurDioxideText/images/so2-angle.so2bulk.theta.png"
-       xlink:href="so2-angle.so2bulk.theta.png" />
-    <image
-       y="169.36218"
-       x="-3005.7144"
-       id="image3077"
-       height="1366"
-       width="2400"
+       y="-301.63916"
+       x="-1474.2006"
+       id="image2945"
+       height="307.35001"
+       width="540"
        sodipodi:absref="/home/eric/Documents/SulfurDioxideText/images/so2-angle.so2bulk-saturated.theta.png"
        xlink:href="so2-angle.so2bulk-saturated.theta.png" />
     <image
-       y="169.36218"
-       x="-851.42847"
-       id="image3010"
-       height="1366"
-       width="2400"
+       y="-301.63916"
+       x="-1001.0578"
+       id="image2895"
+       height="307.35001"
+       width="540"
        sodipodi:absref="/home/eric/Documents/SulfurDioxideText/images/so2-angle.so2bulk-saturated.phi.png"
        xlink:href="so2-angle.so2bulk-saturated.phi.png" />
     <image
-       y="-1127.7806"
-       x="-851.42847"
-       id="image2856"
-       height="1366"
-       width="2400"
+       y="-610.21057"
+       x="-1474.2006"
+       id="image2845"
+       height="307.35001"
+       width="540"
+       sodipodi:absref="/home/eric/Documents/SulfurDioxideText/images/so2-angle.so2bulk.theta.png"
+       xlink:href="so2-angle.so2bulk.theta.png" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.39999962px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="363.4884"
+       y="-1498.1444"
+       id="text2611"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2613"
+         x="363.4884"
+         y="-1498.1444"
+         style="font-size:32.40000153px">Neat-Water</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32.40000153px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="68.285141"
+       y="-1497.1477"
+       id="text2615"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2617"
+         x="68.285141"
+         y="-1497.1477">Saturated</tspan></text>
+    <image
+       y="-610.21057"
+       x="-1001.0578"
+       id="image2795"
+       height="307.35001"
+       width="540"
        sodipodi:absref="/home/eric/Documents/SulfurDioxideText/images/so2-angle.so2bulk.phi.png"
        xlink:href="so2-angle.so2bulk.phi.png" />
+    <image
+       y="662.25598"
+       x="-660.16968"
+       id="image3012"
+       height="137.60356"
+       width="71.067856"
+       sodipodi:absref="/home/eric/Documents/SulfurDioxideText/images/cos-phi.png"
+       xlink:href="cos-phi.png"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <image
+       y="1131.5417"
+       x="-660.16968"
+       id="image3062"
+       height="145.31787"
+       width="68.110718"
+       sodipodi:absref="/home/eric/Documents/SulfurDioxideText/images/cos-theta.png"
+       xlink:href="cos-theta.png"
+       transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>
