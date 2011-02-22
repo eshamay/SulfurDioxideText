@@ -1,0 +1,22 @@
+\section{Surface Density Distributions}
+
+One measure of surface activity is the spatial distribution of molecules around the interfacial region. The density distribution of both \wat~and\suldiox~were calculated for the equilibrium MD simulations, and the results are presented in figure \ref{fig:density} for both the neat-water and saturated simulations. The \suldiox~in the neat-water system remained at the top slab surface. While the \suldiox~equilibrated in the saturated system, both in the bulk and gas phases accumulated at both the top and bottom surfaces. 
+
+The density distributions of the \suldiox~were fit to gaussian lineshapes as shown in equation \ref{eq:gaussian} using the common definitions of the variables $A$, $\mu$, and $\sigma$, and given as a function of the distance to the surface, $z$.
+
+\begin{equation}
+  \rho(z)=\frac{A}{\sqrt{2 \pi \sigma^2}} e^{-\frac{(z-\mu)^2}{2\sigma^2}}
+  \label{eq:gaussian}
+\end{equation}
+
+In the neat-water \suldiox~distribution, $\mu=0.781$, $A=0.109$, and $\sigma=1.684$\angs. Thus, the \suldiox~tends to locate just beneath the surface when in a low-concentration water environment, and it did not fall further into the bulk or move out of the surface into the gas phase. This surface active behavior was found experimentally by a previous SFG study by our group,\cite{Tarbuck2005,Tarbuck2006} and also verified by the computational simulations and spectral calculations of Dang et al.\cite{Baer2010} It was concluded that a surface \suldiox~hydrate complex forms and modifies the structure of water above the Gibbs dividing surface (GDS) shifting \was~free-OH oscillators in towards the bulk, creating a stronger hydrogen-bonding network. In a later section of this article we look at the effect of \suldiox~on surface water orientation.
+
+Both saturated \suldiox~surfaces exhibit accumulations of \suldiox. However, unlike the neat-water slab, the saturated slab has a non-zero bulk concentration of \suldiox~that does not adsorb to the surface. The coefficient values for the top surface from eq \ref{eq:gaussian} are $\mu_{top}=2.695$, $A_{top}=7.001$, and $\sigma_{top}=3.203$. The bottom surface values are $\mu_{bottom}=-33.846$, $A_{bottom}=6.618$, and $\sigma_{bottom}=3.151$\angs. The added concentration of \suldiox~creates a layer of molecules adsorbed on top of the water surface. The center of this distribution is further into the gas phase than for the single-\suldiox~molecule surface. The accumulation of \suldiox~in this classical simulation coincides with the experimental conclusions of a surface of hydrate-complexed \suldiox, but without breakble bonds in the simulation the chemistry that may pull \suldiox~into the bulk water phase is absent. We have confidence in the surface complexation that is exhibited, the effect of the \suldiox~on the surface water molecules, and the accumulation of \suldiox at the interface. However, we do not yet conclude that the specific locations of \suldiox~on top of the water surface are as accurate as those found in the DFT ab initio calculations of Dang et al.\cite{Baer2010}
+
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[scale=1.0]{images/density/density.png}
+		\caption{Molecular density distributions of \wat~and \suldiox~calculated along the long-axis of the simulated cells. The distance axis shows the distance of the given molecule from the top surface of the \wat~slab, with positive values located above the slab towards the gas phase, and negative values located in the water bulk. The lower slab surface is located at approx. -30\angs. Distributions of both the neat-water simulation with a single \suldiox~(left, scaled 10x for clarity), and the saturated system (right) are shown.}
+		\label{fig:density}
+	\end{center}
+\end{figure}
