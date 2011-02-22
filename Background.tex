@@ -11,7 +11,7 @@
 
 \subsection{Analysis of Molecular Orientation}
 
-	The simulated systems were analyzed to characterize the orientation of \wat~and \suldiox~in various environments above, within, and below the aqueous surface region. In order to better understand the chemistry occurring during the \suldiox~adsorption process, the molecular orientation of both the \was~and \suldiox~must be understood.  The two molecules studied are similarly shaped with a C2$_v$ axis along their bisectors, and a molecular plane defined by three atoms. For analysis, a body-fixed frame is defined for \wat~and \suldiox~as shown in figure \ref{fig:molecular-frame}. In each analysis a space-fixed reference axis is used that corresponds to the long axis of the system's periodic cell (normal to the plane of the water surface) unless otherwise noted. The orientational analyses presented herein focus on two angles used to define molecular orientation in space. 
+	The simulated systems were analyzed to characterize the orientation of \wat~and \suldiox~in various environments above, within, and below the aqueous surface region. In order to better understand the chemistry occurring during the \suldiox~adsorption process, the molecular orientation of both the \wat~and \suldiox~must be understood.  The two molecules studied are similarly shaped with a C2$_v$ axis along their bisectors, and a molecular plane defined by three atoms. For analysis, a body-fixed frame is defined for \wat~and \suldiox~as shown in figure \ref{fig:molecular-frame}. In each analysis a space-fixed reference axis is used that corresponds to the long axis of the system's periodic cell (normal to the plane of the water surface) unless otherwise noted. The orientational analyses presented herein focus on two angles used to define molecular orientation in space. 
 	
 	A ``tilt'' angle, $\theta$, defines the angle formed between the molecular bisector vector (the molecular z-axis, pointing from the central atom in the direction of the other two atoms) and the positive system reference axis. Thus the value of $\theta$ falls within a range of $[0,\pi]$. An angle of $\cos(\theta)=1$ indicates a molecule with its bisector aligned with the reference axis, while $\cos(\theta)=-1$ results from an anti-aligned configuration. 
 	
@@ -22,7 +22,7 @@
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/molecularframesmall.png}
+		\includegraphics[scale=1.0]{images/angle-cartoons/molecularframesmall.png}
 		\caption{The body-fixed axes are defined with the x-z plane formed by the three atoms, and the z-axis aligned to the molecular bisector. This sets the y-axis normal to the molecular plane, and one of the bonds in the positive x direction.}
 		\label{fig:molecular-frame}
 	\end{center}
@@ -30,7 +30,7 @@
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/wateranglessmall.png}
+		\includegraphics[scale=1.0]{images/angle-cartoons/wateranglessmall.png}
 		\caption{The definition of the angles $\theta$ and $\phi$ used to define molecular orientation of \suldiox~and \wat~relative to a reference axis. $\theta$ is the value of the ``tilt'' of the molecular bisector from the reference axis. $\phi$ is the ``twist'' angle that indicates how flat the molecule is relative to the interfacial plane, and is formed between the vector normal to the molecular plane (the body-fixed y-axis) and the reference axis.}
 		\label{fig:water-angles}
 	\end{center}
@@ -46,7 +46,7 @@
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/so2complexfigure.png}
+		\includegraphics[scale=1.0]{images/Cycles/so2complexfigure.png}
 		\caption{A \suldiox~and its nearest neighbors are represented as a graph of vertices and edges. The bonds are all given equal weights and the graph is undirected. The numbering shows the relative distance from any atom to the root node (\suldiox-sulfur 1), and also enumerates the iteration through the BFS process at which the atom is discovered. A BFS on this graph would result in discovering the doubly-bound hydrogen (5) as a gray target, and the gray source would be either of the connected oxygens (4). At each iteration the predecessor in the BFS is recorded in order to reconstruct the connectivity of the cycle. This cycle is composed of 8 atoms, and 3 molecules}
 		\label{fig:so2-complex-graph}
 	\end{center}
