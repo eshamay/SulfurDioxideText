@@ -1,5 +1,48 @@
-% This file was created with JabRef 2.3.1.
+% This file was created with JabRef 2.6.
 % Encoding: ISO8859_1
+
+@ARTICLE{Anick2002,
+  author = {Anick, DJ},
+  title = {Polyhedral water clusters, I: Formal consequences of the ice rules},
+  journal = {Journal of Molecular Structure-Theochem},
+  year = {2002},
+  volume = {587},
+  pages = {87-96},
+  month = {JUL 5},
+  abstract = {Polyhedral water clusters (PWCs) are (H2O)(n) Clusters in which every
+	oxygen is 3-coordinated. An analog of the Bernal-Fowler ice rules,
+	when combined with graph-theoretic facts about polyhedra, leads to
+	a rich variety of mathematical relationships regarding structural
+	descriptors of PWCs. These relationships are developed and rigorously
+	proved. The emphasis is on relationships involving four structural
+	parameters which are correlated with the electronic energy of PWCs.
+	Principal results are the recognition of the importance of three
+	levels of information in the H-bonding pattern of a PWC; the definition
+	and classification of the `F-components' and `L-coraponents' of a
+	PWC; a method for generating all PWCs obeying the ice rules for a
+	given polyhedral pattern; and a method based on the four-color theorem
+	for producing low energy PWCs that have a property called `contiguity
+	two'. (C) 2002 Elsevier Science B.V. All rights reserved.},
+  address = {PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS},
+  affiliation = {Anick, DJ (Reprint Author), Harvard Univ, McLean Hosp, Sch Med, Bowditch
+	Bldg,115 Mill St, Belmont, MA 02478 USA. Harvard Univ, McLean Hosp,
+	Sch Med, Belmont, MA 02478 USA.},
+  doc-delivery-number = {576TA},
+  issn = {0166-1280},
+  journal-iso = {Theochem-J. Mol. Struct.},
+  keywords = {water cluster; polyhedron; 3-coordinated; ice rules; connectivity;
+	graph theory},
+  keywords-plus = {(H2O)(20)},
+  language = {English},
+  number-of-cited-references = {20},
+  owner = {eric},
+  publisher = {ELSEVIER SCIENCE BV},
+  subject-category = {Chemistry, Physical},
+  times-cited = {23},
+  timestamp = {2011.01.11},
+  type = {Article},
+  unique-id = {ISI:000177020100012}
+}
 
 @ARTICLE{Baer2010,
   author = {Baer, Marcel and Mundy, Christopher J. and Chang, Tsun-Mei and Tao,
@@ -110,7 +153,6 @@
   pages = {15442-15453},
   number = {31},
   month = {AUG 10},
-  __markedentry = {[eric]},
   abstract = {Molecular dynamics simulation are performed for the water/hydrocarbon
 	system to study the effect of hydrocarbon branching on interfacial
 	properties. The following two series of hydrocarbons are considered:
@@ -191,6 +233,48 @@
   unique-id = {ISI:000071802700020}
 }
 
+@ARTICLE{Huber2007,
+  author = {Huber, Wolfgang and Carey, Vincent J. and Long, Li and Falcon, Seth
+	and Gentleman, Robert},
+  title = {Graphs in molecular biology},
+  journal = {BMC Bioinformatics},
+  year = {2007},
+  volume = {8},
+  number = {Suppl. 6},
+  abstract = {Graph theoretical concepts are useful for the description and analysis
+	of interactions and relationships in biological systems. We give
+	a brief introduction into some of the concepts and their areas of
+	application in molecular biology. We discuss software that is available
+	through the Bioconductor project and present a simple example application
+	to the integration of a protein-protein interaction and a co-expression
+	network.},
+  address = {MIDDLESEX HOUSE, 34-42 CLEVELAND ST, LONDON W1T 4LB, ENGLAND},
+  affiliation = {Huber, W (Reprint Author), European Mol Biol Lab, European Bioinformat
+	Inst, Cambridge CB10 1SD, England. European Mol Biol Lab, European
+	Bioinformat Inst, Cambridge CB10 1SD, England. Brigham \& Womens
+	Hosp, Channing Lab, Boston, MA 02115 USA. Swiss Inst Bioinformat,
+	Vital IT Ctr, CH-1015 Lausanne, Switzerland. Fred Hutchinson Canc
+	Res Ctr, Computat Biol Grp, Seattle, WA 98109 USA.},
+  article-number = {S8},
+  author-email = {huber@ebi.ac.uk stvjc@channing.harvard.edu lilong@isb-sib.ch sfalcon@fhcrc.org
+	rgentlem@fhcrc.org},
+  doc-delivery-number = {216PG},
+  doi = {10.1186/1471-2105-8-S6-S8},
+  issn = {1471-2105},
+  journal-iso = {BMC Bioinformatics},
+  keywords-plus = {SYSTEM; SETS},
+  language = {English},
+  number-of-cited-references = {21},
+  owner = {eric},
+  publisher = {BIOMED CENTRAL LTD},
+  subject-category = {Biochemical Research Methods; Biotechnology \& Applied Microbiology;
+	Mathematical \& Computational Biology},
+  times-cited = {17},
+  timestamp = {2011.01.11},
+  type = {Proceedings Paper},
+  unique-id = {ISI:000249890200008}
+}
+
 @ARTICLE{Isralewitz2001,
   author = {Isralewitz, B and Baudry, J and Gullingsrud, J and Kosztin, D and
 	Schulten, K},
@@ -238,6 +322,77 @@
   unique-id = {ISI:000168679000003}
 }
 
+@BOOK{Knuth1997,
+  title = {Art of Computer Programming, Volume 1: Fundamental Algorithms (3rd
+	Edition)},
+  publisher = {Addison-Wesley Professional},
+  year = {1997},
+  author = {Knuth, Donald E.},
+  edition = {3},
+  month = {July},
+  __markedentry = {[eric]},
+  abstract = {This magnificent tour de force presents a comprehensive overview
+	of a wide variety of algorithms and the analysis of them. Now in
+	its third edition, <I>The Art of Computer Programming, Volume I:
+	Fundamental Algorithms</I> contains substantial revisions by the
+	author and includes numerous new exercises.<P> Although this book
+	was conceived several decades ago, it is still a timeless classic.
+	One of the book's greatest strengths is the wonderful collection
+	of problems that accompany each chapter. The author has chosen problems
+	carefully and indexed them according to difficulty. Solving a substantial
+	number of these problems will help you gain a solid understanding
+	of the issues surrounding the given topic. Furthermore, the exercises
+	feature a variety of classic problems.<P> <I>Fundamental Algorithms</I>
+	begins with mathematical preliminaries. The first section offers
+	a good grounding in a variety of useful mathematical tools: proof
+	techniques, combinatorics, and elementary number theory. Knuth then
+	details the MIX processor, a virtual machine architecture that serves
+	as the programming target for subsequent discussions. This wonderful
+	section comprehensively covers the principles of simple machine architecture,
+	beginning with a register-level discussion of the instruction set.
+	A later discussion of a simulator for this machine includes an excellent
+	description of the principles underlying the implementation of subroutines
+	and co-routines. Implementing such a simulator is an excellent introduction
+	to computer design.<P> In the second section, Knuth covers data structures--stacks,
+	queues, lists, arrays, and trees--and presents implementations (in
+	MIX assembly) along with techniques for manipulating these structures.
+	Knuth follows many of the algorithms with careful time and space
+	analysis. In the section on tree structures, the discussion includes
+	a series of interesting problems concerning the combinatorics of
+	trees (counting distinct trees of a particular form, for example)
+	and some particularly interesting applications. Also featured is
+	a discussion of Huffmann encoding and, in the section on lists, an
+	excellent introduction to garbage collection algorithms and the difficult
+	challenges associated with such a task. The book closes with a discussion
+	of dynamic allocation algorithms.<P> The clear writing in <I>Fundamental
+	Algorithms</I> is enhanced by Knuth's dry humor and the historical
+	discussions that accompany the technical matter. Overall, this text
+	is one of the great classics of computer programming literature--it's
+	not an easy book to grasp, but one that any true programmer will
+	study with pleasure.},
+  citeulike-article-id = {175024},
+  citeulike-linkout-0 = {http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\&amp;path=ASIN/0201896834},
+  citeulike-linkout-1 = {http://www.amazon.de/exec/obidos/redirect?tag=citeulike01-21\&amp;path=ASIN/0201896834},
+  citeulike-linkout-10 = {http://www.worldcat.org/oclc/174763869},
+  citeulike-linkout-2 = {http://www.amazon.fr/exec/obidos/redirect?tag=citeulike06-21\&amp;path=ASIN/0201896834},
+  citeulike-linkout-3 = {http://www.amazon.jp/exec/obidos/ASIN/0201896834},
+  citeulike-linkout-4 = {http://www.amazon.co.uk/exec/obidos/ASIN/0201896834/citeulike00-21},
+  citeulike-linkout-5 = {http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0201896834},
+  citeulike-linkout-6 = {http://www.worldcat.org/isbn/0201896834},
+  citeulike-linkout-7 = {http://books.google.com/books?vid=ISBN0201896834},
+  citeulike-linkout-8 = {http://www.amazon.com/gp/search?keywords=0201896834\&index=books\&linkCode=qs},
+  citeulike-linkout-9 = {http://www.librarything.com/isbn/0201896834},
+  day = {17},
+  howpublished = {Hardcover},
+  isbn = {0201896834},
+  keywords = {programming},
+  owner = {eric},
+  posted-at = {2005-04-30 16:57:47},
+  priority = {2},
+  timestamp = {2011.01.11},
+  url = {http://www.worldcat.org/isbn/0201896834}
+}
+
 @ARTICLE{Matsumoto1988,
   author = {Matsumoto, M and Kataoka, Y},
   title = {Study on Liquid Vapor Interface of Water 1. Simulational Results
@@ -253,6 +408,47 @@
   owner = {eric},
   timestamp = {2009.03.17},
   unique-id = {ISI:A1988M511200047}
+}
+
+@ARTICLE{Radhakrishnan1991,
+  author = {Radhakrishnan, TP and Herndon, WC},
+  title = {Graph Theoretical-analysis of Water Clusters},
+  journal = {Journal of Physical Chemistry},
+  year = {1991},
+  volume = {95},
+  pages = {10609-10617},
+  number = {26},
+  month = {DEC 26},
+  abstract = {A graph theoretical representation of the hydrogen bond network in
+	a water cluster is developed using the concept of directed graphs.
+	Ab initio STO-3G calculations on a large collection of small linear
+	and branched, open chain and monocyclic water clusters are presented.
+	The invariants of the digraph representations are utilized for a
+	statistical analysis of the ab initio results, and this procedure
+	provides physically meaningful factorizations of the hydrogen bond
+	energies. The usefulness of a graphical analysis of this type is
+	further demonstrated by applying it to (i) the analysis of a previous
+	energy data set (MCY potential/many-body corrections) for highly
+	condensed clusters of water molecules and (ii) the prediction of
+	the cohesive energy of ice. The graph theory parameters based on
+	the many-body calculation results give an ice cohesive energy in
+	good agreement with experiment.},
+  address = {1155 16TH ST, NW, WASHINGTON, DC 20036},
+  affiliation = {UNIV TEXAS,DEPT CHEM,EL PASO,TX 79968.},
+  doc-delivery-number = {GY164},
+  issn = {0022-3654},
+  journal-iso = {J. Phys. Chem.},
+  keywords-plus = {DIMER POTENTIAL SURFACE; HYDROGEN-BOND; MOLECULE INTERACTIONS; MATRIX-ISOLATION;
+	SPECTROSCOPY; DYNAMICS; MODEL; ASSOCIATION; ENERGETICS; GEOMETRIES},
+  language = {English},
+  number-of-cited-references = {49},
+  owner = {eric},
+  publisher = {AMER CHEMICAL SOC},
+  subject-category = {Chemistry, Physical},
+  times-cited = {45},
+  timestamp = {2011.01.11},
+  type = {Article},
+  unique-id = {ISI:A1991GY16400023}
 }
 
 @ARTICLE{Rivera2006,
@@ -358,6 +554,47 @@
   timestamp = {2010.12.29},
   type = {Article},
   unique-id = {ISI:000280070900031}
+}
+
+@ARTICLE{Shi2005,
+  author = {Shi, Q and Kais, S and Francisco, JS},
+  title = {Graph theory for fused cubic clusters of water dodecamer},
+  journal = {Journal of Physical Chemistry A},
+  year = {2005},
+  volume = {109},
+  pages = {12036-12045},
+  number = {51},
+  month = {DEC 29},
+  abstract = {The stable structures of the fused cubic water cluster (H2O)(12)
+	are examined using graph theoretical techniques and ab initio calculations.
+	The calculations are obtained by scanning the symmetry of digraph
+	structures of hydrogen-bond network spanning 12 oxygen atom vertexes.
+	Using the Polya theorem the cycle index expressions for 12 vertexes
+	and 20 edges of a cuboid in point-group symmetry D-4h are developed.
+	A total of 91 energy-allowed fused cubic structures are obtained,
+	which are classified by 8 point-group symmetries: 1 D-2h, 2 S-4,
+	5 C-4, 1 D-2, 11 C-2, 10 C-i, 1 C-s, and 60 C-1. An energy level
+	diagram of the structures reveals 14 bands that correspond to 14
+	unique two-colored graphs derived from the distributions of four
+	free hydrogens of the cluster.},
+  address = {1155 16TH ST, NW, WASHINGTON, DC 20036 USA},
+  affiliation = {Kais, S (Reprint Author), Purdue Univ, Dept Chem, W Lafayette, IN
+	47907 USA. Purdue Univ, Dept Chem, W Lafayette, IN 47907 USA.},
+  doc-delivery-number = {997PV},
+  doi = {10.1021/jp0550154},
+  issn = {1089-5639},
+  journal-iso = {J. Phys. Chem. A},
+  keywords-plus = {AB-INITIO; SUPRAMOLECULAR COMPLEX; GLOBAL OPTIMIZATION; (H2O)20 CLUSTERS;
+	MODEL (H2O)8; DYNAMICS; SPECTRA; OCTAMER; ENERGY},
+  language = {English},
+  number-of-cited-references = {44},
+  owner = {eric},
+  publisher = {AMER CHEMICAL SOC},
+  subject-category = {Chemistry, Physical; Physics, Atomic, Molecular \& Chemical},
+  times-cited = {3},
+  timestamp = {2011.01.11},
+  type = {Article},
+  unique-id = {ISI:000234259800049}
 }
 
 @ARTICLE{Wick2006c,
