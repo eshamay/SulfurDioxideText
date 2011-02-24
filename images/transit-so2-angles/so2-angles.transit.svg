@@ -14,10 +14,46 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="so2-angles.transit.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective15" />
+    <inkscape:perspective
+       id="perspective2829"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2843"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2857"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2871"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,17 +61,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.44433054"
-     inkscape:cx="51.32252"
-     inkscape:cy="-119.16261"
+     inkscape:zoom="0.5"
+     inkscape:cx="525.23004"
+     inkscape:cy="-98.372162"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1740"
-     inkscape:window-height="954"
+     inkscape:window-width="1434"
+     inkscape:window-height="824"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -45,7 +81,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,56 +90,56 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="1185.355"
-       x="14.285714"
-       id="image3177"
-       xlink:href="file:///home/eric/Documents/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit-saturated.theta.png"
-       height="408.29999"
-       width="720" />
-    <image
-       y="785.35504"
-       x="14.285714"
-       id="image3155"
-       xlink:href="file:///home/eric/Documents/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit.theta.png"
-       height="408.29999"
-       width="720" />
-    <image
-       y="785.35504"
-       x="674.28571"
-       id="image3144"
-       xlink:href="file:///home/eric/Documents/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit.phi.png"
-       height="408.29999"
-       width="720" />
-    <image
-       y="1185.355"
-       x="674.28571"
-       id="image3166"
-       xlink:href="file:///home/eric/Documents/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit-saturated.phi.png"
-       height="408.29999"
-       width="720" />
+       y="1151.863"
+       x="24.87608"
+       id="image2873"
+       height="297"
+       width="540"
+       xlink:href="file:///media/ECBA-D51E/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit-saturated.theta.png" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1104.3781"
+       x="-1115.9788"
        y="4.6383286"
        id="text3180"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3182"
-         x="-1104.3781"
+         x="-1115.9788"
          y="4.6383286">Neat-Water</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1487.8741"
-       y="5.2535629"
+       x="-1398.7322"
+       y="4.0949054"
        id="text3184"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3186"
-         x="-1487.8741"
-         y="5.2535629">Saturated</tspan></text>
+         x="-1398.7322"
+         y="4.0949054">Saturated</tspan></text>
+    <image
+       y="852.60565"
+       x="24.87608"
+       id="image2845"
+       height="297"
+       width="540"
+       xlink:href="file:///media/ECBA-D51E/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit.theta.png" />
+    <image
+       y="1151.863"
+       x="536.7558"
+       id="image2859"
+       height="297"
+       width="540"
+       xlink:href="file:///media/ECBA-D51E/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit-saturated.phi.png" />
+    <image
+       y="852.60565"
+       x="536.7558"
+       id="image2831"
+       height="297"
+       width="540"
+       xlink:href="file:///media/ECBA-D51E/SulfurDioxideText/images/transit-so2-angles/so2-angle.so2transit.phi.png" />
   </g>
 </svg>
