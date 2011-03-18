@@ -1,0 +1,7 @@
+Lower surface location: 54.65
+Surface width: 2.21
+Upper density: 0.991
+Lower density: 0.00
+
+python script output:
+[ -2.97639998e-04   9.91347050e-01   5.46500777e+01   2.20991950e+00]
