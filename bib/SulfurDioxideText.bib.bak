@@ -409,6 +409,16 @@
   unique-id = {ISI:A1988M511200047}
 }
 
+@ARTICLE{Ota2011,
+  author = {Stephanie T. Ota and Geraldine L. Richmond},
+  title = {Chilling Out: A Cool Aqueous Environment Promotes the Formation of
+	Gas-Surface Complexes},
+  journal = {recently submitted for publication},
+  year = {2011},
+  owner = {eric},
+  timestamp = {2011.03.21}
+}
+
 @ARTICLE{Radhakrishnan1991,
   author = {Radhakrishnan, TP and Herndon, WC},
   title = {Graph Theoretical-analysis of Water Clusters},
