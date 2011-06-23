@@ -116,6 +116,50 @@
   unique-id = {ISI:000278004300013}
 }
 
+@ARTICLE{Baltrusaitis2011,
+  author = {Baltrusaitis, J. and Jayaweera, P. M. and Grassian, V. H.},
+  title = {Sulfur Dioxide Adsorption on TiO2 Nanoparticles: Influence of Particle
+	Size, Coadsorbates, Sample Pretreatment, and Light on Surface Speciation
+	and Surface Coverage},
+  journal = {Journal of Physical Chemistry C},
+  year = {2011},
+  volume = {115},
+  pages = {492--500},
+  number = {2},
+  SN = {1932-7447},
+  TC = {0},
+  UT = {WOS:000286090100023},
+  abstract = {The adsorption of sulfur dioxide (SO2) on titanium dioxide (TiO2)
+	nanoparticle surfaces at 296 K under a wide range of conditions has
+	been investigated. X-ray photoelectron spectroscopy is used to investigate
+	the surface speciation and surface coverage of sulfur-containing
+	products on ca. 4 nm TiO2 anatase particles that remain on the surface
+	following adsorption of SO2. The effects of various environmental
+	conditions of relative humidity, molecular oxygen, and broadband
+	UV/vis irradiation as well as sample pretreatment were found to impact
+	the speciation of adsorbed SO2 as well as the saturation coverage.
+	In particular, in the absence of light, the majority surface species
+	upon SO2 adsorption is found to be adsorbed sulfite. Broadband UV/vis
+	irradiation during sulfur dioxide adsorption leads to an increase
+	(nearly 2-fold) in the amount of adsorbed sulfur species, as compared
+	to experiments with no light, and results in the formation of adsorbed
+	sulfate. The formation of sulfate was quantitative in the presence
+	of molecular oxygen. New surface species including chemisorbed molecular
+	SO2 were observed on samples that have been reduced in vacuum through
+	argon ion sputtering. The total amount of adsorbed sulfur was impacted
+	by surface hydroxyl group coverage and molecularly adsorbed water
+	layer. Additionally, comparison of sulfur dioxide adsorption on 4
+	versus 32 nm sized anatase nanoparticles showed that surface saturation
+	coverages of adsorbed sulfite on the 4 nm particles was almost twice
+	that of 32 nm particles as measured by the S2p:Ti2p peak area ratios,
+	thus showing an increase in the inherent adsorption capacity of the
+	smaller particles. Proposed adsorption sites and mechanisms to account
+	for the observed experimental data are discussed. },
+  doi = {10.1021/jp108759b},
+  owner = {eric},
+  timestamp = {2011.04.05}
+}
+
 @ARTICLE{Caldwell1995,
   author = {J W Caldwell and P A Kollman},
   journal = {J. Phys. Chem.},
@@ -231,6 +275,80 @@
   owner = {eric},
   timestamp = {2009.03.17},
   unique-id = {ISI:000071802700020}
+}
+
+@ARTICLE{Dang1997,
+  author = {Dang, L. X. and Chang, T. M.},
+  title = {Molecular dynamics study of water clusters, liquid, and liquid-vapor
+	interface of water with many-body potentials},
+  journal = {Journal of Chemical Physics},
+  year = {1997},
+  volume = {106},
+  pages = {8149--8159},
+  number = {19},
+  SN = {0021-9606},
+  TC = {376},
+  UT = {WOS:A1997WZ03200025},
+  __markedentry = {[eric]},
+  abstract = {The molecular dynamics computer simulation technique is used to develop
+	a rigid, four-site polarizable model for water. The suggested model
+	reasonably describes the important properties of water clusters,
+	the thermodynamic and structural properties of the liquid and the
+	liquid/vapor interface of water. The minimum energy configurations
+	and the binding energies for these clusters are in reasonable agreement
+	with accurate electronic structure calculations. The model predicts
+	that the water trimer, tetramer, and pentamer have cyclic planar
+	minimum energy structures. A prismlike structure is predicted to
+	be lowest in energy for the water hexamer, and a cagelike structure
+	is the second lowest in energy, with an energy of about 0.2 kcal/mol
+	higher than the prismlike structure. The results are consistent with
+	recent quantum Monte Carlo simulations as well as electronic structure
+	calculations. The computed thermodynamic properties for the model,
+	at room temperature, including the liquid density, the enthalpy of
+	vaporization, as well as the diffusion coefficient, are in excellent
+	agreement with experimental values. Structural properties of liquid
+	water, such as the radial distribution functions, neutron, and x-ray
+	scattering intensities, were calculated and critically evaluated
+	against the experimental measurements. In all cases, we found the
+	agreement between the observed data and the computed properties to
+	be quite reasonable. The computed density profile of the water's
+	liquid/vapor interface shows that the interface is not sharp at a
+	microscopic level and has a thickness of 3.2 Angstrom at 298 K. These
+	results are consistent with those reported in earlier work on the
+	same systems. The calculated surface tension at room temperature
+	is in reasonable agreement with the corresponding experimental data.
+	As expected, the computed average dipole moments of water molecules
+	near the interface are close to their gas phase values, while water
+	molecules far from the interface have dipole moments corresponding
+	to their bulk values. (C) 1997 American Institute of Physics. },
+  owner = {eric},
+  timestamp = {2011.06.06}
+}
+
+@ARTICLE{Hore2008,
+  author = {Hore, Dennis K. and Walker, Dave S. and Richmond, Geraldine L.},
+  title = {Water at hydrophobic surfaces: When weaker is better},
+  journal = {Journal of the American Chemical Society},
+  year = {2008},
+  volume = {130},
+  pages = {1800+},
+  number = {6},
+  month = {FEB 13},
+  abstract = {The structure of water molecules at the interface of four hydrophobic
+	phases: carbon tetrachloride, chloroform, dichloromethane, and air
+	have been studied using molecular dynamics simulations. We discover
+	that hydrophobic phases with weaker dipoles are more successful in
+	orienting water molecules in the vicinity of the aqueous-hydrophobic
+	interface. We create a visual layer-by-layer representation of how
+	water molecules are U structured next to these phases. Our findings
+	contribute to an increased understanding of aqueous interfacial phenomena
+	involving salts, ions, surfactants, biomolecules, and nanoparticle
+	assembly.},
+  doi = {10.1021/ja0755616S0002-7863(07)05561-8},
+  issn = {0002-7863},
+  owner = {eric},
+  timestamp = {2009.03.17},
+  unique-id = {ISI:000253100200002}
 }
 
 @ARTICLE{Huber2007,
@@ -392,6 +510,86 @@
   url = {http://www.worldcat.org/isbn/0201896834}
 }
 
+@ARTICLE{Li2006,
+  author = {Li, L. and Chen, Z. M. and Zhang, Y. H. and Zhu, T. and Li, J. L.
+	and Ding, J.},
+  title = {Kinetics and mechanism of heterogeneous oxidation of sulfur dioxide
+	by ozone on surface of calcium carbonate},
+  journal = {Atmospheric Chemistry and Physics},
+  year = {2006},
+  volume = {6},
+  pages = {2453--2464},
+  SN = {1680-7316},
+  TC = {25},
+  UT = {WOS:000238675600008},
+  __markedentry = {[eric]},
+  abstract = {Sulfate particles play a key role in the air quality and the global
+	climate, but the heterogeneous formation mechanism of sulfates on
+	surfaces of atmospheric particles is not well established. Carbonates,
+	which act as a reactive component in mineral dust due to their special
+	chemical properties, may contribute significantly to the sulfate
+	formation by heterogeneous processes. This paper presents a study
+	on the oxidation of SO2 by O-3 on CaCO3 particles. Using Diffuse
+	Reflectance Infrared Fourier Transform Spectroscopy (DRIFTS), the
+	formation of sulfite and sulfate on the surface was identified, and
+	the roles of O-3 and water in oxidation processes were determined.
+	The results showed that in the presence of O-3, SO2 can be oxidized
+	to sulfate on the surface of CaCO3 particles. The reaction is first
+	order in SO2 and zero order in O-3. The reactive uptake coefficient
+	for SO2 [(0.6 - 9.8) x 10(14) molecule cm(-3)] oxidation by O-3 [(1.2
+	- 12) x 10(14) molecule cm(-3)] was determined to be (1.4 +/- 0.3)
+	x 10(-7) using the BET area as the reactive area and (7.7 +/- 1.6)
+	x 10(-4) using the geometric area. A two-stage mechanism that involves
+	adsorption of SO2 followed by O-3 oxidation is proposed and the adsorption
+	of SO2 on the CaCO3 surface is the rate-determining step. The proposed
+	mechanism can well explain the experiment results. The atmospheric
+	implications were explored based on a box model calculation. It was
+	found that the heterogeneous reaction might be an important pathway
+	for sulfate formation in the atmosphere. },
+  owner = {eric},
+  timestamp = {2011.04.05}
+}
+
+@ARTICLE{Li2007,
+  author = {Li, L. and Chen, Z. M. and Zhang, Y. H. and Zhu, T. and Li, S. and
+	Li, H. J. and Zhu, L. H. and Xu, B. Y.},
+  title = {Heterogeneous oxidation of sulfur dioxide by ozone on the surface
+	of sodium chloride and its mixtures with other components},
+  journal = {Journal of Geophysical Research-atmospheres},
+  year = {2007},
+  volume = {112},
+  number = {D18},
+  SN = {0148-0227},
+  TC = {10},
+  UT = {WOS:000249684600001},
+  __markedentry = {[eric]},
+  abstract = {The heterogeneous oxidation of SO2 by O-3 on NaCl particles has been
+	studied using diffuse reflectance infrared Fourier transform spectroscopy.
+	The formation of sulfite and sulfate on the surface was identified,
+	and the roles of O-3 and water in the oxidation processes were determined.
+	The results showed that in the presence of O-3, SO2 could be oxidized
+	to sulfate on the surface of NaCl particles. The reaction is first
+	order in O-3 and zero order in SO2. The initial reactive uptake coefficient
+	for SO2 [(0.6-9.8) x 10(14) molecule cm(-3)] oxidation by O3 [(1.2-12)x
+	10(14) molecule cm(-3)] was determined to be (4.8-0.7) x 10(-8) using
+	the Brunauer-Emmett-Teller area as the reactive area and (9.8-1.4)
+	x 10(-5) using the geometric area at 40% relative humidity. A three-stage
+	mechanism that involves the adsorption of O-3 results in an alkalescent
+	surface, the adsorption of SO2 followed by O-3 oxidation is proposed,
+	and the adsorption of O-3 on the NaCl surface is the rate-determining
+	step. The proposed mechanism can well explain the experiment results.
+	Furthermore, the surface oxidation on mixtures of NaCl with other
+	components such as CaCO3, Al2O3, TiO2, MgCl2 6H(2)O, MgO, elemental
+	carbon, and soot were studied. The reactivity of mixtures can be
+	predicted from the reactivity of the single component with each component
+	weighted by its abundance in the mixture. The catalytic and basic
+	additives could enhance the production of sulfate on the NaCl surface.
+	},
+  doi = {10.1029/2006JD008207},
+  owner = {eric},
+  timestamp = {2011.04.05}
+}
+
 @ARTICLE{Matsumoto1988,
   author = {Matsumoto, M and Kataoka, Y},
   title = {Study on Liquid Vapor Interface of Water 1. Simulational Results
@@ -509,6 +707,38 @@
   unique-id = {ISI:000240351500048}
 }
 
+@ARTICLE{Rubasinghege2010,
+  author = {Rubasinghege, G. and Elzey, S. and Baltrusaitis, J. and Jayaweera,
+	P. M. and Grassian, V. H.},
+  title = {Reactions on Atmospheric Dust Particles: Surface Photochemistry and
+	Size-Dependent Nanoscale Redox Chemistry},
+  journal = {Journal of Physical Chemistry Letters},
+  year = {2010},
+  volume = {1},
+  pages = {1729--1737},
+  number = {11},
+  SN = {1948-7185},
+  TC = {1},
+  UT = {WOS:000278416700011},
+  abstract = {Mineral dust aerosol is indisputably an important component of the
+	Earth's atmosphere and provides a reactive surface for heterogeneous
+	chemistry to occur. These reactions can alter concentrations of key
+	trace atmospheric gases as well as change the physicochemical properties
+	of the dust particles. The focus of this Perspective article is on
+	several new mechanisms and reaction pathways identified in laboratory
+	studies on components of mineral dust and on nanodust, a potentially
+	new source of metal-containing dust from engineered nanomaterials.
+	These reactions include surface photochemical mechanisms for renoxification
+	and sulfur dioxide oxidation and size-dependent redox chemistry of
+	metal-containing dusts in low-pH environments including naturally
+	occurring iron oxides and engineered metal nanoparticles. These newly
+	identified reactions have the potential to play an important role
+	in atmospheric chemistry. },
+  doi = {10.1021/jz100371d},
+  owner = {eric},
+  timestamp = {2011.04.05}
+}
+
 @ARTICLE{Shamay2010,
   author = {Shamay, Eric S. and Richmond, Geraldine L.},
   title = {Ionic Disruption of the Liquid-Liquid Interface},
@@ -615,7 +845,6 @@
   pages = {{3256-3267}},
   number = {{10}},
   month = {{MAR 15}},
-  __markedentry = {[eric]},
   abstract = {{The orientation and hydrogen bonding of water molecules in the vapor/water
 	interfacial region in the presence of SO2 and CO2 gas are examined
 	using vibrational sum-frequency spectroscopy (VSFS) to gain insight
@@ -660,7 +889,6 @@
   pages = {{16806-16807}},
   number = {{48}},
   month = {{DEC 7}},
-  __markedentry = {[eric]},
   address = {{1155 16th St, NW, Washington, DC 20036 USA}},
   affiliation = {{Richmond, GL (Reprint Author), Univ Oregon, Dept Chem, Eugene, OR
 	97403 USA. Univ Oregon, Dept Chem, Eugene, OR 97403 USA.}},
@@ -692,7 +920,6 @@
   pages = {{134-PHYS}},
   number = {{Part 2}},
   month = {{MAR 13}},
-  __markedentry = {[eric]},
   address = {{1155 16TH ST, NW, WASHINGTON, DC 20036 USA}},
   affiliation = {{Univ Oregon, Dept Chem, Eugene, OR 97403 USA.}},
   doc-delivery-number = {{008UQ}},
@@ -772,6 +999,139 @@
   owner = {eric},
   timestamp = {2009.03.17},
   unique-id = {ISI:000251024200011}
+}
+
+%%
+%% The primary VMD citation, should be used by all publications using VMD
+%%
+@article{HUMP96,
+  author={William Humphrey and Andrew Dalke and Klaus Schulten},
+  title={{VMD} -- {V}isual {M}olecular {D}ynamics},
+  journal={Journal of Molecular Graphics},
+  year=1996,
+  volume=14,
+  pages={33-38},
+  note={},
+  tbstatus={Published.},
+  techrep={},
+  tbreference={222}
+}
+
+
+%%
+%% Interactive Molecular Dynamics, cited by papers doing IMD simulations
+%%
+@inproceedings{STON2001,
+  author={John Stone and Justin Gullingsrud and Paul Grayson and Klaus Schulten},
+  title={A System for Interactive Molecular Dynamics Simulation},
+  booktitle={2001 ACM Symposium on Interactive 3D Graphics},
+  publisher={ACM SIGGRAPH},
+  address={New York},
+  editor={John F. Hughes and Carlo H. S\'equin},
+  pages={191-194},
+  year={2001},
+  note={},
+  tbreference={304},
+  tbstatus={Published.},
+  annote={This symposium took place between March 19-21, 2001. {ISBN} 1-58113-292-1.}
+}
+
+%%
+%% VMD-related packages and their respective citations
+%%
+
+%%
+%% Multiple Alignment Plugin, by the ZS group
+%%
+@Article{EARG06,
+  Author="Eargle, John and Wright, Dan and Luthey-Schulten, Zaida",
+  Title="{Multiple Alignment of protein structures and sequences for VMD}",
+  Journal="Bioinformatics",
+  Year="2006",
+  Volume="22",
+  Number="4",
+  Pages="504--506",
+  Month="Feb"
+}
+
+
+%%
+%% Tachyon ray tracing library (built-into VMD and/or distributed with VMD)
+%% Please cite Tachyon if you use it to make figures within VMD.
+%%
+@mastersthesis{STON1998,
+  author = {John Stone},
+  title = "{\em An Efficient Library for Parallel Ray Tracing and Animation}",
+  school = "Computer Science Department, University of Missouri-Rolla",
+  month = "April",
+  year = {1998}
+}
+
+
+%%
+%% STRIDE Secondary Structure Prediction (distributed with VMD)
+%%
+%% Frishman,D & Argos,P. (1995) Knowledge-based secondary structure
+%% assignment. Proteins: structure, function and genetics, 23, 566-579.
+
+@article{FRISH1995,
+  author={D. Frishman and P. Argos},
+  title={Knowledge-based secondary structure assignment},
+  journal={Proteins: structure, function and genetics},
+  volume=23,
+  pages={566-579},
+  year={1995},
+  note={},
+  annote={}
+}
+
+%%
+%% SURF solvent accessible surface calculator (distributed with VMD)
+%%
+%% A. Varshney, F. P. Brooks, W. V. Wright, Linearly Scalable Computation
+%% of Smooth Molecular Surfaces, IEEE Comp. Graphics and Applications, 
+%% v. 14 (1994) pp. 19-25.
+@article{VARSH1994,
+  author={A. Varshney and F. P. Brooks and W. V. Wright},
+  title={Linearly Scalable Computation of Smooth Molecular Surfaces},
+  journal={IEEE Computer Graphics and Applications},
+  volume=14,
+  pages={19-25},
+  year={1994},
+  note={},
+  annote={}
+}
+
+%%
+%% MSMS solvent excluded surface calculator (available separately from VMD)
+%%
+@inproceedings{SANN1995,
+  author={Michel Sanner and Arthur Olsen and Jean-Claude Spehner},
+  title={Fast and Robust Computation of Molecular Surfaces},
+  booktitle={Proceedings of the 11th ACM Symposium on Computational Geometry},
+  address={New York},
+  publisher={ACM},
+  pages={C6-C7},
+  year={1995},
+  note={},
+  annote={}
+}
+
+
+%%
+%% Paper on speech and gesture recognition with VMD
+%%
+@article{SHAR2000,
+  author={Rajeev Sharma and Michael Zeller and Vladimir I. Pavlovic and Thomas S. Huang and Zion Lo and Stephen Chu and Yunxin Zhao and James C. Phillips and Klaus Schulten},
+  title={Speech/Gesture Interface to a Visual-Computing Environment},
+  journal=IEEECGA,
+  volume=20,
+  pages={29-37},
+  year={2000},
+  note={},
+  tbreference={294},
+  tbstatus={Published.},
+  annote={}
 }
 
 @comment{jabref-meta: selector_publisher:}
