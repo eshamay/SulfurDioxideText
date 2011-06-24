@@ -126,9 +126,6 @@
   volume = {115},
   pages = {492--500},
   number = {2},
-  SN = {1932-7447},
-  TC = {0},
-  UT = {WOS:000286090100023},
   abstract = {The adsorption of sulfur dioxide (SO2) on titanium dioxide (TiO2)
 	nanoparticle surfaces at 296 K under a wide range of conditions has
 	been investigated. X-ray photoelectron spectroscopy is used to investigate
@@ -157,7 +154,10 @@
 	for the observed experimental data are discussed. },
   doi = {10.1021/jp108759b},
   owner = {eric},
-  timestamp = {2011.04.05}
+  sn = {1932-7447},
+  tc = {0},
+  timestamp = {2011.04.05},
+  ut = {WOS:000286090100023}
 }
 
 @ARTICLE{Caldwell1995,
@@ -286,10 +286,6 @@
   volume = {106},
   pages = {8149--8159},
   number = {19},
-  SN = {0021-9606},
-  TC = {376},
-  UT = {WOS:A1997WZ03200025},
-  __markedentry = {[eric]},
   abstract = {The molecular dynamics computer simulation technique is used to develop
 	a rigid, four-site polarizable model for water. The suggested model
 	reasonably describes the important properties of water clusters,
@@ -322,7 +318,128 @@
 	molecules far from the interface have dipole moments corresponding
 	to their bulk values. (C) 1997 American Institute of Physics. },
   owner = {eric},
-  timestamp = {2011.06.06}
+  sn = {0021-9606},
+  tc = {376},
+  timestamp = {2011.06.06},
+  ut = {WOS:A1997WZ03200025}
+}
+
+@ARTICLE{EARG06,
+  author = {Eargle, John and Wright, Dan and Luthey-Schulten, Zaida},
+  title = {{Multiple Alignment of protein structures and sequences for VMD}},
+  journal = {Bioinformatics},
+  year = {2006},
+  volume = {22},
+  pages = {504--506},
+  number = {4},
+  month = {Feb}
+}
+
+@ARTICLE{Faloona2009,
+  author = {Faloona, I.},
+  title = {Sulfur processing in the marine atmospheric boundary layer: A review
+	and critical assessment of modeling uncertainties},
+  journal = {Atmospheric Environment},
+  year = {2009},
+  volume = {43},
+  pages = {2841--2854},
+  number = {18},
+  SN = {1352-2310},
+  TC = {5},
+  UT = {WOS:000266515900001},
+  abstract = {Sulfur is an extremely motile and vital element in the Earth's biogeochemical
+	environment, one whose active redox chemistry maintains small reservoirs
+	in the atmosphere and biosphere yet large fluxes through both. Essential
+	for life, intimately linked to the climate state, and an important
+	component of air quality, sulfur and its transport and processing
+	in the atmosphere have been the subject of active research for several
+	decades. This review article describes the current state of our understanding
+	of the atmospheric sulfur cycle, focusing on the marine atmospheric
+	boundary layer, with the aim of identifying the largest roots of
+	uncertainty that most inhibit accurate simulation of sulfur cycling
+	in the atmosphere. An overview of the emissions by phytoplankton
+	and shipping, dispersion and entrainment in the marine boundary layer,
+	and chemical processing by aerosols, clouds, and dry deposition is
+	presented. Analysis of 20 contemporary modeling studies suggests
+	that the greatest ambiguity in global sulfur cycling derives from
+	(in descending order) wet deposition of aerosol sulfate, dry deposition
+	of sulfur dioxide to the Earth's surface, and the heterogeneous oxidation
+	of SO2 in aerosols and clouds. (C) 2009 Elsevier Ltd. All rights
+	reserved. },
+  doi = {10.1016/j.atmosenv.2009.02.043},
+  owner = {eric},
+  timestamp = {2011.06.24}
+}
+
+@ARTICLE{Fan2009,
+  author = {Fan, Y. B. and Chen, X. and Yang, L. J. and Cremer, P. S. and Gao,
+	Y. Q.},
+  title = {On the Structure of Water at the Aqueous/Air Interface},
+  journal = {Journal of Physical Chemistry B},
+  year = {2009},
+  volume = {113},
+  pages = {11672--11679},
+  number = {34},
+  SN = {1520-6106},
+  TC = {14},
+  UT = {WOS:000269017700016},
+  abstract = {Vibrational sum frequency spectroscopy (VSFS) and molecular dynamics
+	(MD) simulations were used in concert to investigate the molecular
+	structure and hydrogen bonding of the air/water interface. MID simulations
+	were performed with a variety of water models. The results indicated
+	that only the upper most two layers of water molecules are ordered
+	in this system. There is a strong preference to have the top layer
+	arranged Such that the OH moiety points upward into the air. This
+	orientational preference arises from two factors that involve the
+	maximization of the number of hydrogen bonds formed and the minimization
+	of partial charge that is exposed. Specifically, the lone pairs from
+	oxygen are less likely to face into the air compared with the OH
+	moiety because this would expose more partial charge and, therefore,
+	be unfavorable oil enthalpic grounds. The two-layer interfacial water
+	structure model implies that there should be four distinct types
+	of OH stretches for this system. Namely, one directs upward and another
+	points downward in each layer. Interestingly, VSFS experiments revealed
+	the presence of four OH stretch region peaks at 3 117, 3222, 3448,
+	and 3696 cm(-1). The phases of the 3 117 and 3696 cm(-1) resonances
+	carried a positive sign, which indicates that these features arise
+	from OH groups with protons facing upward toward the air. The other
+	two resonances emanate from OH groups with protons facing downward
+	toward the bulk aqueous solution, On the basis of this, we assign
+	the 3117 cm(-1) peak to the OH moiety from a water molecule in the
+	second layer, which is hydrogen bonded upward toward the top layer.
+	On the other hand, the peak at 3222 cm(-1) should arise from water
+	molecules in the top layer with the OH moiety facing downward to
+	hydrogen bond to the second layer. The 3448 cm(-1) peak arises from
+	hydrogen bonding between water molecules in the second layer and
+	the more disordered water molecules of the bulk liquid. Finally,
+	the peak at 3696 cm(-1) is assigned to the free OH moiety pointing
+	upward in the top layer. },
+  doi = {10.1021/jp900117t},
+  owner = {eric},
+  timestamp = {2011.06.24}
+}
+
+@ARTICLE{FRISH1995,
+  author = {D. Frishman and P. Argos},
+  title = {Knowledge-based secondary structure assignment},
+  journal = {Proteins: structure, function and genetics},
+  year = {1995},
+  volume = {23},
+  pages = {566-579}
+}
+
+@ARTICLE{Heber1997,
+  author = {Heber, Ulrich and Hueve, Katja},
+  title = {Action of SO2 on plants and metabolic detoxification of SO2},
+  journal = {International Review of Cytology},
+  year = {1997},
+  pages = {255--286},
+  ED = {Jeon, K. W.},
+  SN = {0074-7696},
+  TC = {0},
+  UT = {BIOSIS:PREV199800014282},
+  owner = {eric},
+  timestamp = {2011.06.24}
 }
 
 @ARTICLE{Hore2008,
@@ -393,6 +510,17 @@
   unique-id = {ISI:000249890200008}
 }
 
+@ARTICLE{HUMP96,
+  author = {William Humphrey and Andrew Dalke and Klaus Schulten},
+  title = {{VMD} -- {V}isual {M}olecular {D}ynamics},
+  journal = {Journal of Molecular Graphics},
+  year = {1996},
+  volume = {14},
+  pages = {33-38},
+  tbreference = {222},
+  tbstatus = {Published.}
+}
+
 @ARTICLE{Isralewitz2001,
   author = {Isralewitz, B and Baudry, J and Gullingsrud, J and Kosztin, D and
 	Schulten, K},
@@ -438,6 +566,86 @@
   times-cited = {88},
   type = {Proceedings Paper},
   unique-id = {ISI:000168679000003}
+}
+
+@ARTICLE{Johns2011,
+  author = {Johns, D. O. and Linn, W. S.},
+  title = {A review of controlled human SO2 exposure studies contributing to
+	the US EPA integrated science assessment for sulfur oxides},
+  journal = {Inhalation Toxicology},
+  year = {2011},
+  volume = {23},
+  pages = {33--43},
+  number = {1},
+  SN = {0895-8378},
+  TC = {0},
+  UT = {WOS:000286820300004},
+  abstract = {Laboratory studies involving intentional and highly controlled exposures
+	to air pollutants among groups of human volunteers provide valuable
+	information related to the potential health effects of pollutants
+	regulated under the US Clean Air Act. These controlled human exposure
+	studies often provide biological plausibility for the associations
+	between air-pollutant concentration and a given health endpoint observed
+	in epidemiologic investigations. In some cases, results from human
+	laboratory studies provide evidence of a relevant health effect at
+	ambient or near-ambient concentrations and thus directly support
+	the selection of air quality standard levels. In the recently completed
+	review of the US National Ambient Air Quality Standards (NAAQS) for
+	sulfur dioxide (SO2), the US Environmental Protection Agency (EPA)
+	concluded that short-term exposures to SO2 are causally associated
+	with an increase in respiratory morbidity. This determination was
+	based in large part on findings from laboratory studies of controlled
+	exposures to SO2 among small groups of asthmatic individuals. The
+	purpose of this review is to concisely present an overview of the
+	evidence from controlled human exposure studies of SO2-induced respiratory
+	health effects following short-term exposures. While the majority
+	of these studies were conducted over 20 years ago, the findings and
+	insights gained from this work continues to play an integral role
+	in evaluating the respiratory effects of ambient exposures to SO2.</.
+	},
+  doi = {10.3109/08958378.2010.539290},
+  owner = {eric},
+  timestamp = {2011.06.24}
+}
+
+@ARTICLE{Jurkat2010,
+  author = {Jurkat, T. and Voigt, C. and Arnold, F. and Schlager, H. and Aufmhoff,
+	H. and Schmale, J. and Schneider, J. and Lichtenstern, M. and Dornbrack,
+	A.},
+  title = {Airborne stratospheric ITCIMS measurements of SO2, HCl, and HNO3
+	in the aged plume of volcano Kasatochi},
+  journal = {Journal of Geophysical Research-atmospheres},
+  year = {2010},
+  volume = {115},
+  SN = {0148-0227},
+  TC = {4},
+  UT = {WOS:000284219100004},
+  abstract = {Major explosive volcanic eruptions inject gases and ash particles
+	into the stratosphere, resulting in significant impacts on ozone
+	and climate. Here we report on fast and sensitive in situ measurements
+	of sulfur dioxide (SO2), hydrochloric acid (HCl), and nitric acid
+	(HNO3) in an aged stratospheric plume of volcanic origin made by
+	an ion trap chemical ionization mass spectrometer (ITCIMS) aboard
+	the research aircraft Falcon. Other instruments on the Falcon measured
+	reactive nitrogen (NOy), carbon monoxide (CO), and ozone (O-3) as
+	well as the aerosol composition. The plume most likely originated
+	from the 7-8 August 2008 eruption of the Aleutian volcano Kasatochi
+	and almost 3 months later, on 31 October 2008, was encountered by
+	the aircraft during two missions over Europe at altitudes between
+	7000 and 11,600 m. Within the plume, SO2 mixing ratios of up to 0.51
+	ppbv were about a factor of 10 higher than in the background stratosphere
+	(0.02-0.055 ppbv). The molar ratios HCl/O-3 and HNO3/NOy tended to
+	be elevated by up to 19%, and HNO3/O-3 also showed a substantial
+	enhancement inside the plume. From our measurements we infer an upper
+	limit of the e-folding lifetime of 62 days for SO2 conversion in
+	the stratosphere, indicating that approximately 25% of the volcanic
+	SO2 had not yet experienced OH-induced conversion to sulfuric acid.
+	Our measurements contribute to a better understanding of the formation
+	of volcanic aerosol and of heterogeneous reactions taking place on
+	these particles in the lower stratosphere. },
+  doi = {10.1029/2010JD013890},
+  owner = {eric},
+  timestamp = {2011.06.24}
 }
 
 @BOOK{Knuth1997,
@@ -510,6 +718,37 @@
   url = {http://www.worldcat.org/isbn/0201896834}
 }
 
+@ARTICLE{Lattanzi2010,
+  author = {Lattanzi, V. and Thaddeus, P. and McCarthy, M. C. and Thorwirth,
+	S.},
+  title = {Laboratory detection of protonated SO2 in two isomeric forms},
+  journal = {Journal of Chemical Physics},
+  year = {2010},
+  volume = {133},
+  number = {19},
+  SN = {0021-9606},
+  TC = {1},
+  UT = {WOS:000284548100013},
+  abstract = {By means of Fabry-Perot Fourier transform microwave spectroscopy,
+	the rotational spectrum of protonated sulfur dioxide in two distinct
+	isomeric forms, a cis- and a trans-geometry, is reported. The search
+	for both isomers was based on theoretical structures obtained at
+	the CCSD(T)/cc-pwCVQZ level of theory corrected for zero-point vibrational
+	effects. At a similarly high level of theory, the cis-isomer is calculated
+	to be the global minimum on the potential energy surface, but the
+	trans-isomer is predicted to lie only a few kcal/mol higher in energy.
+	A total of seven lines, including a- and b-type transitions, has
+	been observed for both isomers, and precise rotational constants
+	have been derived. Because sulfur dioxide, SO2, is a widespread and
+	very abundant astronomical species, and because it possesses a large
+	proton affinity, HOSO+ is an excellent candidate for radioastronomical
+	detection. (C) 2010 American Institute of Physics. [doi:10.1063/1.3491510]
+	},
+  doi = {10.1063/1.3491510},
+  owner = {eric},
+  timestamp = {2011.06.24}
+}
+
 @ARTICLE{Li2006,
   author = {Li, L. and Chen, Z. M. and Zhang, Y. H. and Zhu, T. and Li, J. L.
 	and Ding, J.},
@@ -519,10 +758,6 @@
   year = {2006},
   volume = {6},
   pages = {2453--2464},
-  SN = {1680-7316},
-  TC = {25},
-  UT = {WOS:000238675600008},
-  __markedentry = {[eric]},
   abstract = {Sulfate particles play a key role in the air quality and the global
 	climate, but the heterogeneous formation mechanism of sulfates on
 	surfaces of atmospheric particles is not well established. Carbonates,
@@ -547,7 +782,10 @@
 	found that the heterogeneous reaction might be an important pathway
 	for sulfate formation in the atmosphere. },
   owner = {eric},
-  timestamp = {2011.04.05}
+  sn = {1680-7316},
+  tc = {25},
+  timestamp = {2011.04.05},
+  ut = {WOS:000238675600008}
 }
 
 @ARTICLE{Li2007,
@@ -559,10 +797,6 @@
   year = {2007},
   volume = {112},
   number = {D18},
-  SN = {0148-0227},
-  TC = {10},
-  UT = {WOS:000249684600001},
-  __markedentry = {[eric]},
   abstract = {The heterogeneous oxidation of SO2 by O-3 on NaCl particles has been
 	studied using diffuse reflectance infrared Fourier transform spectroscopy.
 	The formation of sulfite and sulfate on the surface was identified,
@@ -587,7 +821,10 @@
 	},
   doi = {10.1029/2006JD008207},
   owner = {eric},
-  timestamp = {2011.04.05}
+  sn = {0148-0227},
+  tc = {10},
+  timestamp = {2011.04.05},
+  ut = {WOS:000249684600001}
 }
 
 @ARTICLE{Matsumoto1988,
@@ -707,6 +944,40 @@
   unique-id = {ISI:000240351500048}
 }
 
+@ARTICLE{Rodhe1995,
+  author = {Rodhe, H. and Langner, J. and Gallardo, L. and Kjellstrom, E.},
+  title = {Global scale transport of acidifying pollutants},
+  journal = {Water Air and Soil Pollution},
+  year = {1995},
+  volume = {85},
+  pages = {37--50},
+  number = {1},
+  CL = {GOTHENBURG, SWEDEN},
+  CT = {5th International Conference on Acidic Deposition - Science and Policy:EOLEOLAcid
+	Reign 95},
+  CY = {JUN 26-30, 1995},
+  SN = {0049-6979},
+  TC = {31},
+  UT = {WOS:A1995UB05100007},
+  abstract = {During the past few years several attempts have been made to use three-dimensional
+	tracer transport models to simulate the global distribution of sulfur
+	and nitrogen compounds from both natural and anthropogenic sources.
+	We review these studies and show examples of estimated distributions
+	of the total deposition of sulfur, oxidized nitrogen and ammonium
+	as well as the pH of precipitation. The simulated patterns are compared
+	with observations. Weaknesses in these estimates resulting from lack
+	of knowledge of emissions, chemical transformations and removal processes
+	are emphasized and discussed. We also show examples of how the models
+	can be used to estimate past and future deposition patterns. In particular,
+	we use the IPCC scenario IS92a to estimate the possible sulfur deposition
+	around the world in the year 2050. A comparison with critical load
+	values for sulfur deposition indicates that substantial parts of
+	South and East Asia are at risk for acidification problems in the
+	future. },
+  owner = {eric},
+  timestamp = {2011.06.24}
+}
+
 @ARTICLE{Rubasinghege2010,
   author = {Rubasinghege, G. and Elzey, S. and Baltrusaitis, J. and Jayaweera,
 	P. M. and Grassian, V. H.},
@@ -717,9 +988,6 @@
   volume = {1},
   pages = {1729--1737},
   number = {11},
-  SN = {1948-7185},
-  TC = {1},
-  UT = {WOS:000278416700011},
   abstract = {Mineral dust aerosol is indisputably an important component of the
 	Earth's atmosphere and provides a reactive surface for heterogeneous
 	chemistry to occur. These reactions can alter concentrations of key
@@ -736,7 +1004,67 @@
 	in atmospheric chemistry. },
   doi = {10.1021/jz100371d},
   owner = {eric},
-  timestamp = {2011.04.05}
+  sn = {1948-7185},
+  tc = {1},
+  timestamp = {2011.04.05},
+  ut = {WOS:000278416700011}
+}
+
+@INPROCEEDINGS{SANN1995,
+  author = {Michel Sanner and Arthur Olsen and Jean-Claude Spehner},
+  title = {Fast and Robust Computation of Molecular Surfaces},
+  booktitle = {Proceedings of the 11th ACM Symposium on Computational Geometry},
+  year = {1995},
+  pages = {C6-C7},
+  address = {New York},
+  publisher = {ACM}
+}
+
+@ARTICLE{Shah2011,
+  author = {Shah, P. S. and Balkhair, T. and Knowledge Synth Grp Determinants
+	P},
+  title = {Air pollution and birth outcomes: A systematic review},
+  journal = {Environment International},
+  year = {2011},
+  volume = {37},
+  pages = {498--516},
+  number = {2},
+  SN = {0160-4120},
+  TC = {0},
+  UT = {WOS:000287620100024},
+  abstract = {Background: Several mechanisms are suspected to underlie adverse birth
+	outcomes among mothers exposed to air pollutants, including inflammation,
+	direct toxic effects on fetuses and the placenta, displacement of
+	the oxygen-hemoglobin dissociation curve, and formation of DNA adducts.
+	Objective: To systematically review the association between air pollutants
+	and birth outcomes of low birth weight (LBW), preterm (PTB) and small
+	for gestational age (SGA) births. Methods: Electronic databases and
+	bibliographies of identified articles were searched for English language
+	studies reporting on birth outcomes. Included studies were assessed
+	for risks of bias in the selection, exposure assessment, confounder
+	adjustment, analyses, outcomes assessment, and attrition. Unadjusted
+	and adjusted estimates from included studies were extracted. Methodological
+	differences between the studies were evaluated. Results: A total
+	of 41 studies, mostly with a moderate risk of biases due to indirect
+	assessment methods employed, met the eligibility criteria. Exposure
+	to sulphur dioxide was associated with PTB, exposure to fine particulate
+	matter (PM) of <= 2.5 mu M was associated with LBW. PTB and SGA births,
+	and exposure to coarse PM of <= 10 mu m was associated with SGA births.
+	The evidence for nitrous oxide, nitrogen dioxide, ozone and carbon
+	monoxide was inconclusive. Conclusions: Reported associations, and
+	lack thereof, between individual air pollutants and birth outcomes
+	have differed across published studies. This heterogeneity and/or
+	absence of association may be due to difficulty in quantifying exposure,
+	method of ascertainment, time of measurement and collinearity between
+	pollutants. Important future research directions include developing
+	improved methods to detect the duration and intensity of exposure,
+	including entire populations, as well as performing well-designed
+	nested studies that ascertain complete outcomes, avoiding residual
+	confounding, and adjusting for residential mobility. (c) 2010 Elsevier
+	Ltd. All rights reserved. },
+  doi = {10.1016/j.envint.2010.10.009},
+  owner = {eric},
+  timestamp = {2011.06.24}
 }
 
 @ARTICLE{Shamay2010,
@@ -795,6 +1123,19 @@
   unique-id = {ISI:000280070900031}
 }
 
+@ARTICLE{SHAR2000,
+  author = {Rajeev Sharma and Michael Zeller and Vladimir I. Pavlovic and Thomas
+	S. Huang and Zion Lo and Stephen Chu and Yunxin Zhao and James C.
+	Phillips and Klaus Schulten},
+  title = {Speech/Gesture Interface to a Visual-Computing Environment},
+  journal = IEEECGA,
+  year = {2000},
+  volume = {20},
+  pages = {29-37},
+  tbreference = {294},
+  tbstatus = {Published.}
+}
+
 @ARTICLE{Shi2005,
   author = {Shi, Q and Kais, S and Francisco, JS},
   title = {Graph theory for fused cubic clusters of water dodecamer},
@@ -834,6 +1175,28 @@
   timestamp = {2011.01.11},
   type = {Article},
   unique-id = {ISI:000234259800049}
+}
+
+@MASTERSTHESIS{STON1998,
+  author = {John Stone},
+  title = {{\em An Efficient Library for Parallel Ray Tracing and Animation}},
+  school = {Computer Science Department, University of Missouri-Rolla},
+  year = {1998},
+  month = {April}
+}
+
+@INPROCEEDINGS{STON2001,
+  author = {John Stone and Justin Gullingsrud and Paul Grayson and Klaus Schulten},
+  title = {A System for Interactive Molecular Dynamics Simulation},
+  booktitle = {2001 ACM Symposium on Interactive 3D Graphics},
+  year = {2001},
+  editor = {John F. Hughes and Carlo H. S\'equin},
+  pages = {191-194},
+  address = {New York},
+  publisher = {ACM SIGGRAPH},
+  annote = {This symposium took place between March 19-21, 2001. {ISBN} 1-58113-292-1.},
+  tbreference = {304},
+  tbstatus = {Published.}
 }
 
 @ARTICLE{Tarbuck2006,
@@ -936,6 +1299,93 @@
   unique-id = {{ISI:000235066603134}}
 }
 
+@ARTICLE{Tzivian2011,
+  author = {Tzivian, L.},
+  title = {Outdoor Air Pollution and Asthma in Children},
+  journal = {Journal of Asthma},
+  year = {2011},
+  volume = {48},
+  pages = {470--481},
+  number = {5},
+  SN = {0277-0903},
+  TC = {0},
+  UT = {WOS:000290870400007},
+  abstract = {Background. Asthma, a chronic inflammatory disease of the airways,
+	is associated with reversible airway obstruction and hyperresponsiveness
+	to triggers; clinical symptoms include wheezing, episodic cough,
+	shortness of breath, and increased mucous production. Ambient or
+	outdoor environmental exposure to ozone, particulate matter, sulfur
+	dioxide, and nitrogen oxides has been well documented to exacerbate
+	asthma. Children appear to be most vulnerable to the harmful effects
+	of ambient air pollutants. As their lungs are not completely developed,
+	children may experience greater exposure to environmental pollutants
+	than adults and the higher doses of varied composition may remain
+	in their lungs for a greater duration. Altogether, the negative effects
+	of air pollutants on pulmonary function place children at a greater
+	risk of air pollutant-induced exacerbation of asthma for the duration
+	of their lives. Objectives. The aim of this review was to assess
+	recently published literature regarding the influence of air pollution
+	on asthma in children. Methods. For this work, we reviewed articles
+	found in PubMed using the key words "outdoor air pollution, asthma,
+	and children" which were published between 2006 and 2009. Only those
+	articles that had a full version available in PubMed were analyzed.
+	Results. We reviewed studies published between 2006 and 2009 examining
+	the effect of outdoor air pollution on asthma in children. In total,
+	we evaluated 25 articles; of these, 9 were published in 2006, 3 in
+	2007, 8 in 2008, and 5 in 2009. Of these 25 studies, 1 was a clinical
+	trial, 6 were cross-sectional, 4 were case-control (2 with a case-crossover
+	design), 12 were cohort prospective, and 2 were cohort retrospective
+	studies with varied follow-up times ranging from 10 days to 7 years.
+	The ages of children also differed, ranging from birth to 18 years
+	of age. Conclusions. All studies reviewed in this work indicate that
+	outdoor air pollution affects the appearance and exacerbation of
+	asthma in children. Although these findings are of great interest,
+	the limitations of noted works make future investigations of the
+	effect of air pollution on asthma in children essential. },
+  doi = {10.3109/02770903.2011.570407},
+  owner = {eric},
+  timestamp = {2011.06.24}
+}
+
+@ARTICLE{VARSH1994,
+  author = {A. Varshney and F. P. Brooks and W. V. Wright},
+  title = {Linearly Scalable Computation of Smooth Molecular Surfaces},
+  journal = {IEEE Computer Graphics and Applications},
+  year = {1994},
+  volume = {14},
+  pages = {19-25}
+}
+
+@ARTICLE{Walker2006b,
+  author = {Walker, Dave S. and Hore, Dennis K. and Richmond, Geraldine L.},
+  title = {Understanding the population, coordination, and orientation of water
+	species contributing to the nonlinear optical spectroscopy of the
+	vapor-water interface through molecular dynamics simulations},
+  journal = {Journal of Physical Chemistry B},
+  year = {2006},
+  volume = {110},
+  pages = {20451-20459},
+  number = {41},
+  month = {OCT 19},
+  abstract = {Molecular dynamics simulations are used to deconvolve the vibrational
+	spectral features of the vapor-water interface based on molecular
+	environment. A simple geometric description of hydrogen bonding is
+	deployed to identify the OH stretch modes that comprise the vibrational
+	sum-frequency spectrum of the vapor-water interface with direct comparison
+	to our experimental results. The population densities of different
+	species of water molecules are presented as functions of interfacial
+	depth and orientation. It is found that surface water molecules that
+	possess one proton donor bond and one proton acceptor bond make the
+	dominant contribution to both the SSP- and SPS-polarized spectral
+	responses and are located within an angstrom of the Gibbs dividing
+	surface.},
+  doi = {10.1021/jp063063y},
+  issn = {1520-6106},
+  owner = {eric},
+  timestamp = {2009.03.17},
+  unique-id = {ISI:000241192200058}
+}
+
 @ARTICLE{Wick2006c,
   author = {Wick, CD and Dang, LX},
   title = {Distribution, structure, and dynamics of cesium and iodide ions at
@@ -1001,137 +1451,40 @@
   unique-id = {ISI:000251024200011}
 }
 
-%%
-%% The primary VMD citation, should be used by all publications using VMD
-%%
-@article{HUMP96,
-  author={William Humphrey and Andrew Dalke and Klaus Schulten},
-  title={{VMD} -- {V}isual {M}olecular {D}ynamics},
-  journal={Journal of Molecular Graphics},
-  year=1996,
-  volume=14,
-  pages={33-38},
-  note={},
-  tbstatus={Published.},
-  techrep={},
-  tbreference={222}
-}
-
-
-%%
-%% Interactive Molecular Dynamics, cited by papers doing IMD simulations
-%%
-@inproceedings{STON2001,
-  author={John Stone and Justin Gullingsrud and Paul Grayson and Klaus Schulten},
-  title={A System for Interactive Molecular Dynamics Simulation},
-  booktitle={2001 ACM Symposium on Interactive 3D Graphics},
-  publisher={ACM SIGGRAPH},
-  address={New York},
-  editor={John F. Hughes and Carlo H. S\'equin},
-  pages={191-194},
-  year={2001},
-  note={},
-  tbreference={304},
-  tbstatus={Published.},
-  annote={This symposium took place between March 19-21, 2001. {ISBN} 1-58113-292-1.}
-}
-
-%%
-%% VMD-related packages and their respective citations
-%%
-
-%%
-%% Multiple Alignment Plugin, by the ZS group
-%%
-@Article{EARG06,
-  Author="Eargle, John and Wright, Dan and Luthey-Schulten, Zaida",
-  Title="{Multiple Alignment of protein structures and sequences for VMD}",
-  Journal="Bioinformatics",
-  Year="2006",
-  Volume="22",
-  Number="4",
-  Pages="504--506",
-  Month="Feb"
-}
-
-
-%%
-%% Tachyon ray tracing library (built-into VMD and/or distributed with VMD)
-%% Please cite Tachyon if you use it to make figures within VMD.
-%%
-@mastersthesis{STON1998,
-  author = {John Stone},
-  title = "{\em An Efficient Library for Parallel Ray Tracing and Animation}",
-  school = "Computer Science Department, University of Missouri-Rolla",
-  month = "April",
-  year = {1998}
-}
-
-
-%%
-%% STRIDE Secondary Structure Prediction (distributed with VMD)
-%%
-%% Frishman,D & Argos,P. (1995) Knowledge-based secondary structure
-%% assignment. Proteins: structure, function and genetics, 23, 566-579.
-
-@article{FRISH1995,
-  author={D. Frishman and P. Argos},
-  title={Knowledge-based secondary structure assignment},
-  journal={Proteins: structure, function and genetics},
-  volume=23,
-  pages={566-579},
-  year={1995},
-  note={},
-  annote={}
-}
-
-%%
-%% SURF solvent accessible surface calculator (distributed with VMD)
-%%
-%% A. Varshney, F. P. Brooks, W. V. Wright, Linearly Scalable Computation
-%% of Smooth Molecular Surfaces, IEEE Comp. Graphics and Applications, 
-%% v. 14 (1994) pp. 19-25.
-@article{VARSH1994,
-  author={A. Varshney and F. P. Brooks and W. V. Wright},
-  title={Linearly Scalable Computation of Smooth Molecular Surfaces},
-  journal={IEEE Computer Graphics and Applications},
-  volume=14,
-  pages={19-25},
-  year={1994},
-  note={},
-  annote={}
-}
-
-%%
-%% MSMS solvent excluded surface calculator (available separately from VMD)
-%%
-@inproceedings{SANN1995,
-  author={Michel Sanner and Arthur Olsen and Jean-Claude Spehner},
-  title={Fast and Robust Computation of Molecular Surfaces},
-  booktitle={Proceedings of the 11th ACM Symposium on Computational Geometry},
-  address={New York},
-  publisher={ACM},
-  pages={C6-C7},
-  year={1995},
-  note={},
-  annote={}
-}
-
-
-%%
-%% Paper on speech and gesture recognition with VMD
-%%
-@article{SHAR2000,
-  author={Rajeev Sharma and Michael Zeller and Vladimir I. Pavlovic and Thomas S. Huang and Zion Lo and Stephen Chu and Yunxin Zhao and James C. Phillips and Klaus Schulten},
-  title={Speech/Gesture Interface to a Visual-Computing Environment},
-  journal=IEEECGA,
-  volume=20,
-  pages={29-37},
-  year={2000},
-  note={},
-  tbreference={294},
-  tbstatus={Published.},
-  annote={}
+@ARTICLE{Wu2011,
+  author = {Wu, C. M. and Baltrusaitis, J. and Gillan, E. G. and Grassian, V.
+	H.},
+  title = {Sulfur Dioxide Adsorption on ZnO Nanoparticles and Nanorods},
+  journal = {Journal of Physical Chemistry C},
+  year = {2011},
+  volume = {115},
+  pages = {10164--10172},
+  number = {20},
+  SN = {1932-7447},
+  TC = {0},
+  UT = {WOS:000290652200042},
+  __markedentry = {[eric]},
+  abstract = {ZnO nanomaterials, nanoparticles, and nanorods, have been synthesized
+	over a wide range of sizes with relatively high yield (similar to
+	90-95%). The synthesis method allows for size control by varying
+	the amount of water used and morphology control by varying the zinc
+	precursor (zinc acetate for nanoparticles or zinc acetylacetonate
+	for nanorods). These nanomaterials were analyzed with powder X-ray
+	diffraction and attenuated total reflection FTIR spectroscopy. Sulfur
+	dioxide adsorption on nanoparticles and nanorods of different size
+	was then investigated using volumetric measurements, transmission
+	FTIR spectroscopy, and X-ray photoelectron spectroscopy. Nanopartides
+	and nanorods of several different sizes were heated to 550 degrees
+	C to remove surface-adsorbed organic ligands that remained after
+	the synthesis prior to exposure to SO2. Spectroscopic analysis revealed
+	the formation of several surface species, including sulfate, sulfite,
+	sulfide, and weakly bound SO2. Quantifying surface speciation as
+	well as the total amount of adsorbed sulfur from XPS and volumetric
+	data reveals that sulfur speciation as well as the total amount of
+	adsorbed sulfur is a function of particle size and morphology. },
+  doi = {10.1021/jp201986j},
+  owner = {eric},
+  timestamp = {2011.06.24}
 }
 
 @comment{jabref-meta: selector_publisher:}
