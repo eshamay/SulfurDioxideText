@@ -344,9 +344,6 @@
   volume = {43},
   pages = {2841--2854},
   number = {18},
-  SN = {1352-2310},
-  TC = {5},
-  UT = {WOS:000266515900001},
   abstract = {Sulfur is an extremely motile and vital element in the Earth's biogeochemical
 	environment, one whose active redox chemistry maintains small reservoirs
 	in the atmosphere and biosphere yet large fluxes through both. Essential
@@ -368,7 +365,10 @@
 	reserved. },
   doi = {10.1016/j.atmosenv.2009.02.043},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {1352-2310},
+  tc = {5},
+  timestamp = {2011.06.24},
+  ut = {WOS:000266515900001}
 }
 
 @ARTICLE{Fan2009,
@@ -380,9 +380,6 @@
   volume = {113},
   pages = {11672--11679},
   number = {34},
-  SN = {1520-6106},
-  TC = {14},
-  UT = {WOS:000269017700016},
   abstract = {Vibrational sum frequency spectroscopy (VSFS) and molecular dynamics
 	(MD) simulations were used in concert to investigate the molecular
 	structure and hydrogen bonding of the air/water interface. MID simulations
@@ -416,7 +413,10 @@
 	upward in the top layer. },
   doi = {10.1021/jp900117t},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {1520-6106},
+  tc = {14},
+  timestamp = {2011.06.24},
+  ut = {WOS:000269017700016}
 }
 
 @ARTICLE{FRISH1995,
@@ -434,12 +434,12 @@
   journal = {International Review of Cytology},
   year = {1997},
   pages = {255--286},
-  ED = {Jeon, K. W.},
-  SN = {0074-7696},
-  TC = {0},
-  UT = {BIOSIS:PREV199800014282},
+  ed = {Jeon, K. W.},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {0074-7696},
+  tc = {0},
+  timestamp = {2011.06.24},
+  ut = {BIOSIS:PREV199800014282}
 }
 
 @ARTICLE{Hore2008,
@@ -577,9 +577,6 @@
   volume = {23},
   pages = {33--43},
   number = {1},
-  SN = {0895-8378},
-  TC = {0},
-  UT = {WOS:000286820300004},
   abstract = {Laboratory studies involving intentional and highly controlled exposures
 	to air pollutants among groups of human volunteers provide valuable
 	information related to the potential health effects of pollutants
@@ -605,7 +602,10 @@
 	},
   doi = {10.3109/08958378.2010.539290},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {0895-8378},
+  tc = {0},
+  timestamp = {2011.06.24},
+  ut = {WOS:000286820300004}
 }
 
 @ARTICLE{Jurkat2010,
@@ -617,9 +617,6 @@
   journal = {Journal of Geophysical Research-atmospheres},
   year = {2010},
   volume = {115},
-  SN = {0148-0227},
-  TC = {4},
-  UT = {WOS:000284219100004},
   abstract = {Major explosive volcanic eruptions inject gases and ash particles
 	into the stratosphere, resulting in significant impacts on ozone
 	and climate. Here we report on fast and sensitive in situ measurements
@@ -645,7 +642,10 @@
 	these particles in the lower stratosphere. },
   doi = {10.1029/2010JD013890},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {0148-0227},
+  tc = {4},
+  timestamp = {2011.06.24},
+  ut = {WOS:000284219100004}
 }
 
 @BOOK{Knuth1997,
@@ -726,9 +726,6 @@
   year = {2010},
   volume = {133},
   number = {19},
-  SN = {0021-9606},
-  TC = {1},
-  UT = {WOS:000284548100013},
   abstract = {By means of Fabry-Perot Fourier transform microwave spectroscopy,
 	the rotational spectrum of protonated sulfur dioxide in two distinct
 	isomeric forms, a cis- and a trans-geometry, is reported. The search
@@ -746,7 +743,10 @@
 	},
   doi = {10.1063/1.3491510},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {0021-9606},
+  tc = {1},
+  timestamp = {2011.06.24},
+  ut = {WOS:000284548100013}
 }
 
 @ARTICLE{Li2006,
@@ -845,13 +845,40 @@
 }
 
 @ARTICLE{Ota2011,
-  author = {Stephanie T. Ota and Geraldine L. Richmond},
+  author = {Ota, S. T. and Richmond, G. L.},
   title = {Chilling Out: A Cool Aqueous Environment Promotes the Formation of
 	Gas-Surface Complexes},
-  journal = {recently submitted for publication},
+  journal = {Journal of the American Chemical Society},
   year = {2011},
+  volume = {133},
+  pages = {7497--7508},
+  number = {19},
+  __markedentry = {[eric]},
+  abstract = {SO2, an important atmospheric pollutant, has been implicated in environmental
+	phenomena such as acid rain, climate change, and cloud formation.
+	In addition, SO2 is fundamentally interesting because it forms spectroscopically
+	identifiable complexes with water at aqueous surfaces. Vibrational
+	sum frequency spectroscopy (VSFS) is used here to further investigate
+	the mechanism by which SO2 adsorbs to water at tropospherically relevant
+	temperatures (0-23 degrees C). The spectral results lead to two important
+	conclusions. SO2 surface affinity is enhanced at colder temperatures,
+	with nearly all of the topmost water molecules showing evidence of
+	binding to SO2 at 0 degrees C as compared to a much lower fraction
+	at room temperature. This surface adsorption results in significant
+	changes in water orientation at the surface, but is reversible at
+	the temperatures examined here. Second, the SO2 complex formation
+	at aqueous surfaces is independent of aqueous solution acidity. One
+	challenge in previous uptake studies was the ability to distinguish
+	between the effects of surface adsorption as compared to bulk accommodation.
+	The surface and vibrational specificity of these studies make this
+	distinction possible, allowing a selective study of how the aqueous
+	properties temperature and pH influence SO2 surface affinity. },
+  doi = {10.1021/ja201027k},
   owner = {eric},
-  timestamp = {2011.03.21}
+  sn = {0002-7863},
+  tc = {0},
+  timestamp = {2011.06.24},
+  ut = {WOS:000290782200046}
 }
 
 @ARTICLE{Radhakrishnan1991,
@@ -952,13 +979,6 @@
   volume = {85},
   pages = {37--50},
   number = {1},
-  CL = {GOTHENBURG, SWEDEN},
-  CT = {5th International Conference on Acidic Deposition - Science and Policy:EOLEOLAcid
-	Reign 95},
-  CY = {JUN 26-30, 1995},
-  SN = {0049-6979},
-  TC = {31},
-  UT = {WOS:A1995UB05100007},
   abstract = {During the past few years several attempts have been made to use three-dimensional
 	tracer transport models to simulate the global distribution of sulfur
 	and nitrogen compounds from both natural and anthropogenic sources.
@@ -974,8 +994,15 @@
 	values for sulfur deposition indicates that substantial parts of
 	South and East Asia are at risk for acidification problems in the
 	future. },
+  cl = {GOTHENBURG, SWEDEN},
+  ct = {5th International Conference on Acidic Deposition - Science and Policy:EOLEOLAcid
+	Reign 95},
+  cy = {JUN 26-30, 1995},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {0049-6979},
+  tc = {31},
+  timestamp = {2011.06.24},
+  ut = {WOS:A1995UB05100007}
 }
 
 @ARTICLE{Rubasinghege2010,
@@ -1029,9 +1056,6 @@
   volume = {37},
   pages = {498--516},
   number = {2},
-  SN = {0160-4120},
-  TC = {0},
-  UT = {WOS:000287620100024},
   abstract = {Background: Several mechanisms are suspected to underlie adverse birth
 	outcomes among mothers exposed to air pollutants, including inflammation,
 	direct toxic effects on fetuses and the placenta, displacement of
@@ -1064,7 +1088,10 @@
 	Ltd. All rights reserved. },
   doi = {10.1016/j.envint.2010.10.009},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {0160-4120},
+  tc = {0},
+  timestamp = {2011.06.24},
+  ut = {WOS:000287620100024}
 }
 
 @ARTICLE{Shamay2010,
@@ -1307,9 +1334,6 @@
   volume = {48},
   pages = {470--481},
   number = {5},
-  SN = {0277-0903},
-  TC = {0},
-  UT = {WOS:000290870400007},
   abstract = {Background. Asthma, a chronic inflammatory disease of the airways,
 	is associated with reversible airway obstruction and hyperresponsiveness
 	to triggers; clinical symptoms include wheezing, episodic cough,
@@ -1344,7 +1368,10 @@
 	effect of air pollution on asthma in children essential. },
   doi = {10.3109/02770903.2011.570407},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {0277-0903},
+  tc = {0},
+  timestamp = {2011.06.24},
+  ut = {WOS:000290870400007}
 }
 
 @ARTICLE{VARSH1994,
@@ -1460,10 +1487,6 @@
   volume = {115},
   pages = {10164--10172},
   number = {20},
-  SN = {1932-7447},
-  TC = {0},
-  UT = {WOS:000290652200042},
-  __markedentry = {[eric]},
   abstract = {ZnO nanomaterials, nanoparticles, and nanorods, have been synthesized
 	over a wide range of sizes with relatively high yield (similar to
 	90-95%). The synthesis method allows for size control by varying
@@ -1484,7 +1507,10 @@
 	adsorbed sulfur is a function of particle size and morphology. },
   doi = {10.1021/jp201986j},
   owner = {eric},
-  timestamp = {2011.06.24}
+  sn = {1932-7447},
+  tc = {0},
+  timestamp = {2011.06.24},
+  ut = {WOS:000290652200042}
 }
 
 @comment{jabref-meta: selector_publisher:}
