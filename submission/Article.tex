@@ -56,7 +56,7 @@ A separate set of SMD simulations were performed with tethering of one of the \s
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/startingconfigurations.png}
+		\includegraphics[scale=1.0]{startingconfigurations.png}
 		\caption{Sample starting configurations for the two types of SMD simulations. The neat-water slab simulation introduces a single \suldiox~molecule that is then guided into the surface of the water and further into the bulk (left). The saturated slab simulation begins with a water system that has been loaded with \suldiox~to saturate the water phase, and also with a high pressure of \suldiox~gas (right). The single \suldiox~(shown at the top) is then steered through the surface region saturated with \suldiox~molecules, and into the water bulk.}
 		\label{fig:starting-configurations}
 	\end{center}
@@ -74,7 +74,7 @@ This method for finding the outer monolayer location was implemented, and the su
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/density-location.png}
+		\includegraphics[scale=1.0]{density-location.png}
 		\caption{(A) Density profiles of \wat~(Gray) and \suldiox~(red) from a 10 ns simulation of the neat-water system with a single sulfur dioxide. The \wat~density profile was fit using a hyperbolic tangent function (black) to extract location and width data for the water surface. Position values are based on the atomic position data of the water oxygens and \suldiox~sulfurs from the raw molecular dynamics output. (B) The instantaneous location of the outer \wat~monolayer was calculated for each simulation time step (blue), and the surface location extracted from the density fitting was also shown for reference (horizontal dashed line). Long simulations of liquid slabs result in drift of the slab location, and the consequent broadening of the water density profile if the surface location is not determined repeatedly throughout the simulation.}
 		\label{fig:density-flaw}
 	\end{center}
@@ -94,7 +94,7 @@ Knowing the molecular orientation of both the \wat~and \suldiox~is a prerequisit
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/molecularframesmall.png}
+		\includegraphics[scale=1.0]{molecularframesmall.png}
 		\caption{Molecular body-fixed axes are defined with the x-z plane formed by the three atoms, and the z-axis aligned to the molecular bisector. The y-axis is normal to the molecular plane, and one of the bonds points in the positive x direction.}
 		\label{fig:molecular-frame}
 	\end{center}
@@ -102,7 +102,7 @@ Knowing the molecular orientation of both the \wat~and \suldiox~is a prerequisit
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/molecular-angles.png}
+		\includegraphics[scale=1.0]{molecular-angles.png}
 		\caption{(A) The definition of the angles $\theta$ and $\phi$ used to define molecular orientation of \suldiox~and \wat~relative to a reference axis. (B) $\theta$ is the value of the ``tilt'' of the molecular bisector from the reference axis, with $\cos(\theta)$ values ranging from -1 to +1 indicating different bisector orientations. (C) $\phi$ is the ``twist'' angle formed between the vector normal to the molecular plane (the body-fixed y-axis) and the reference axis. For values of $\cos(\theta) \approx 0$, $\phi$ shows how flat the molecule is relative to the interfacial plane.}
 		\label{fig:water-angles}
 	\end{center}
@@ -120,7 +120,7 @@ The saturated solution simulation results indicate that under the high concentra
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/density.png}
+		\includegraphics[scale=1.0]{density.png}
 		\caption{Molecular density distributions of \wat~(black) and \suldiox~(red) calculated along the long-axis of the simulated cells. The position axis shows the distance from the instantaneous surface location of the \wat~slab, with positive values located above the slab towards the gas phase, and negative values located in the water bulk. Distributions of both the neat-water simulation with a single \suldiox~(left, with the \suldiox~density scaled 10x for clarity), and the saturated system (right) are shown.}
 		\label{fig:density}
 	\end{center}
@@ -148,7 +148,7 @@ The distribution of $\cos(\phi)$ is more sharply defined (i.e. less isotropic) f
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/h2oangles.png}
+		\includegraphics[scale=1.0]{h2oangles.png}
 		\caption{Molecular orientation histograms of \wat~throughout the surface equilibrated systems. The top surface is located at a distance of 0\angs~with negative distance values located in the bulk of the slab. Shown are the angle distributions for $\theta$ (left column) and $\phi$ (right column) in both the neat-\wat~system (top row) and the saturated system (bottom row). The distributions are normalized to account for the changing number of water molecules at different positions in the system. Regions of high intensity are dark red, and low intensity are dark blue. The scattered points of coloration to the far right of each plot indicates that few waters were located at those positions, and thus few data points were collected.}
 		\label{fig:water-orientation}
 	\end{center}
@@ -167,7 +167,7 @@ The plots indicate that \suldiox~orients similarly at both the low and high conc
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/so2-angles.png}
+		\includegraphics[scale=1.0]{so2-angles.png}
 		\caption{Molecular orientation distributions for \suldiox~molecules adsorbed to the water slab surface. Distributions are shown for $\cos(\theta)$ (left column) and $\cos(\phi)$ (right column) for both the neat-water (top) and saturated (bottom) systems. For both systems the $\theta$ distributions show \suldiox~bound to the water surface with the sulfur pointing towards the water slab, and the oxygens pointing to the gas phase. In this configuration the $\phi$ distribution is isotropic because of the water slab's in-plane symmetry.}
 		\label{fig:so2-orientation}
 	\end{center}
@@ -181,7 +181,7 @@ The plots indicate that \suldiox~orients similarly at both the low and high conc
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/so2-angles-transit.png}
+		\includegraphics[scale=1.0]{so2-angles-transit.png}
 		\caption{\suldiox~molecular orientation distributions during SMD transit simulations into an aqueous slab. Both the neat-water (top row) and saturated (bottom row) data sets were analyzed to determine the angles $\theta$ (left column), and $\phi$ (right column) of the transiting \suldiox. The distributions show angle cosines plotted against the distance of the \suldiox~to the location of the water surface. The data sets were averaged at each distance for the respective 50 simulations, and every distribution at each distance was normalized such that each histogram has a max population of 1 for purposes of comparison.}
 		\label{fig:so2-transit-angles}
 	\end{center}
@@ -193,7 +193,7 @@ The plots indicate that \suldiox~orients similarly at both the low and high conc
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/so2-surface.png}
+		\includegraphics[scale=1.0]{so2-surface.png}
 		\caption{(A) \suldiox~molecules above and below both neat-water and saturated water surface location orient with the bisectors perpendicular to the interface. The \suldiox~sulfur points down towards the aqueous phase. (B) In the neat-water system, a transiting \suldiox~molecule located below the water surface briefly reorients with one S-O bond more towards the interface above, and the other bond pointing further down into the water bulk.}
 		\label{fig:so2-surface-angles}
 	\end{center}
@@ -215,7 +215,7 @@ Through these simulations we also characterize the orientational behavior of \su
 
 \begin{figure}[h!]
 	\begin{center}
-		\includegraphics[scale=1.0]{images/system-surface.png}
+		\includegraphics[scale=1.0]{system-surface.png}
 		\caption{\wat~and \suldiox~both exhibit preferred orientations in the region near the liquid-gas interface. The neat-water system (A) with a single \suldiox~molecule (low-concentration) has surface waters orienting mostly flat to the interface. When the \suldiox~concentration is increased, as in the saturated system (B), the waters at the surface behave similar to the neat-water interface, but waters that venture into the adsorbed \suldiox~gas layer orient strongly with their bisectors pointing out from the aqueous phase towards the gas. In both cases, the \suldiox~orients with its molecular bisector pointing out to the gas phase when it is near the surface, and isotropically further into the gas phase. Sulfur, oxygen and hydrogen atoms are colored yellow, red, and white, respectively.}
 		\label{fig:so2-surface-cartoon}
 	\end{center}
@@ -224,6 +224,10 @@ Through these simulations we also characterize the orientational behavior of \su
 Steered molecular dynamics simulations were used to model the behavior of an adsorbing \suldiox~as it moves from the gas phase above the water down through the surface and into the bulk. The \suldiox~reorients as it makes its first contact with the water interface. Within 5 \angs~of the surface the \suldiox~is mostly oriented with its sulfur towards the water phase. The results for the transit through the interface show that in both systems of low and high \suldiox~concentration an adsorbing \suldiox~near the interface has very similar orientation to those molecules already bound to the water surface. The \suldiox~pulled further into the water bulk retains its orientation until it is past the interfacial region and then isotropically orients with the bulk water.
 
 These studies provide a starting point for future studies in this area that seek to understand how gases of different concentrations and chemical composition adsorb and transit across an aqueous/air interface. Obtaining such knowledge will be invaluable for understanding many environmental aerosol and land water systems where gaseous uptake at a water surface does not conform to expectations.\cite{Jayne1990,Yang2002,Worsnop1989,Boniface2000} Investigations of these and related low-temperature effects will be forthcoming in future publications.
+
+\section{Acknowledgements}
+
+The authors wish to thank Dr. Daniel Steck of the University of Oregon Department of Physics for the generous use of computing resources, the National Science Foundation (Grant CHE-1051215), and the US Department of Education Graduate Assistance in Areas of National Need (GAANN) program (Grant P200A070436) for support of this research.
 
 
 \bibliography{citations}
