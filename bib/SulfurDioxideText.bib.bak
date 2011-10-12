@@ -169,9 +169,6 @@
   volume = {115},
   pages = {1211--1219},
   number = {5},
-  SN = {1520-6106},
-  TC = {0},
-  UT = {WOS:000286797700052},
   abstract = {The unbinding properties of the transient complex between the electron
 	transfer proteins azurin and cytochrome c(551) have been investigated
 	by steered molecular dynamics simulations by pulling four different
@@ -191,7 +188,43 @@
 	data by atomic force spectroscopy. },
   doi = {10.1021/jp107933k},
   owner = {eric},
-  timestamp = {2011.06.30}
+  sn = {1520-6106},
+  tc = {0},
+  timestamp = {2011.06.30},
+  ut = {WOS:000286797700052}
+}
+
+@ARTICLE{Boniface2000,
+  author = {Boniface, J. and Shi, Q. and Li, Y. Q. and Cheung, J. L. and Rattigan,
+	O. V. and Davidovits, P. and Worsnop, D. R. and Jayne, J. T. and
+	Kolb, C. E.},
+  title = {Uptake of gas-phase SO2, H2S, and CO2 by aqueous solutions},
+  journal = {Journal of Physical Chemistry A},
+  year = {2000},
+  volume = {104},
+  pages = {7502--7510},
+  number = {32},
+  SN = {1089-5639},
+  TC = {31},
+  UT = {WOS:000088828800011},
+  abstract = {The uptake of gas-phase SO2, H2S, and CO2 by aqueous solutions was
+	studied as a function of pH and temperature using droplet train flow
+	reactor and bubble train reactor apparatuses. All three atmospheric
+	species react with H2O and OH-, acidifying aqueous solutions. Studies
+	yielded the reaction rates of SO2, H2S, and CO2 with OH- and the
+	mass accommodation coefficient (alpha) of SO2 on water as a function
+	of temperature. The second-order aqueous-phase rate coefficients
+	at 291 K for SO2, H2S and CO2 reaction with OH- are (1.1 +/- 0.2)
+	x 10(10), (1.7 +/- 0.2) x 10(9), and (4.0 +/- 0.7) x 10(3) M-1 s(-1),
+	respectively. As far as we can determine, the rate coefficients for
+	SO2 and H2S have been determined here for the first time. At 291
+	K, for SO2, alpha = 0.175 +/- 0.015, and as in previous studies,
+	the temperature dependence of alpha is well represented by the relationship
+	alpha /(1 - alpha) = exp(-Delta G(obs)/RT) with Delta H-obs = -7.6
+	+/- 0.6 kcal mol(-1) and Delta S-obs = -29.2 +/- 2.1 cal mol(-1)
+	K-1. },
+  owner = {eric},
+  timestamp = {2011.07.04}
 }
 
 @ARTICLE{Caldwell1995,
@@ -273,6 +306,47 @@
   timestamp = {2010.12.22},
   type = {Article},
   unique-id = {ISI:000239463300055}
+}
+
+@ARTICLE{Clegg2001,
+  author = {Clegg, S. M. and Abbatt, J. P. D.},
+  title = {Uptake of gas-phase SO2 and H2O2 by ice surfaces: Dependence on partial
+	pressure, temperature, and surface acidity},
+  journal = {Journal of Physical Chemistry A},
+  year = {2001},
+  volume = {105},
+  pages = {6630--6636},
+  number = {27},
+  SN = {1089-5639},
+  TC = {40},
+  UT = {WOS:000169823500007},
+  abstract = {The uptakes of gas-phase SO2 and H2O2 by ice surfaces have been investigated
+	at temperatures from 213 to 238 K and from 10(-7) to 10(-4) Torr
+	partial pressure. These experiments have been conducted in a low-temperature,
+	coated-wall flow tube coupled to an electron-impact, quadrupole mass
+	spectrometer which monitors changes in the SO2 and H2O2 partial pressure.
+	The ice surfaces are formed by freezing liquid water. Unlike the
+	uptakes of strong acids such as HNo3 and HCl, the SO2 and H2O2 uptakes
+	are fully reversible on the time scale of the experiment and the
+	surface coverages are roughly a thousandth of a monolayer at 10(-6)
+	Torr partial pressure and 228 K. The SO2 uptakes scale with the square
+	root of the partial pressure of the SO2 gas, indicating that dissociation
+	of the hydrated form of adsorbed SO2 is occurring on the surface.
+	The H2O2 uptakes scale linearly with the H2O2 partial pressure, indicating
+	that dissociation does not occur. The uptakes are driven by H-bond
+	interactions in this case. Support for these conclusions comes from
+	uptake measurements with ice surfaces which were formed by freezing
+	either acidic or basic aqueous solutions. Although the H2O2 uptakes
+	are independent of pH, the acidic ice surfaces considerably inhibit
+	the SO2 uptake and the basic surfaces enhance the SO2 uptake. The
+	results in this paper are consistent with atmospheric observations
+	which show that both S(IV) and H2O2 have low retention efficiencies
+	after supercooled cloud droplets freeze, whereas the retention efficiency
+	of HNO3 is high. The uptakes are sufficiently small that scavenging
+	of SO2 and H2O2 by ice clouds will not be significant. },
+  doi = {10.1021/jp010062r},
+  owner = {eric},
+  timestamp = {2011.07.04}
 }
 
 @ARTICLE{Dang1998,
@@ -358,7 +432,7 @@
   ut = {WOS:A1997WZ03200025}
 }
 
-@ARTICLE{EARG06,
+@ARTICLE{Eargle2006,
   author = {Eargle, John and Wright, Dan and Luthey-Schulten, Zaida},
   title = {{Multiple Alignment of protein structures and sequences for VMD}},
   journal = {Bioinformatics},
@@ -453,7 +527,7 @@
   ut = {WOS:000269017700016}
 }
 
-@ARTICLE{FRISH1995,
+@ARTICLE{Frishman1995,
   author = {D. Frishman and P. Argos},
   title = {Knowledge-based secondary structure assignment},
   journal = {Proteins: structure, function and genetics},
@@ -471,9 +545,6 @@
   volume = {7},
   pages = {1943--1950},
   number = {6},
-  SN = {1549-9618},
-  TC = {0},
-  UT = {WOS:000291500400034},
   abstract = {Steered molecular dynamics (SMD) simulations for the calculation of
 	free energies are well suited for high-throughput molecular simulations
 	on a distributed infrastructure due to the simplicity of the setup
@@ -492,7 +563,10 @@
 	affect the sampling and the free energy estimation. },
   doi = {10.1021/ct100707s},
   owner = {eric},
-  timestamp = {2011.06.30}
+  sn = {1549-9618},
+  tc = {0},
+  timestamp = {2011.06.30},
+  ut = {WOS:000291500400034}
 }
 
 @ARTICLE{Heber1997,
@@ -577,7 +651,7 @@
   unique-id = {ISI:000249890200008}
 }
 
-@ARTICLE{HUMP96,
+@ARTICLE{Humphrey1996,
   author = {William Humphrey and Andrew Dalke and Klaus Schulten},
   title = {{VMD} -- {V}isual {M}olecular {D}ynamics},
   journal = {Journal of Molecular Graphics},
@@ -633,6 +707,23 @@
   times-cited = {88},
   type = {Proceedings Paper},
   unique-id = {ISI:000168679000003}
+}
+
+@ARTICLE{Jayne1990,
+  author = {Jayne, J. T. and Davidovits, P. and Worsnop, D. R. and Zahniser,
+	M. S. and Kolb, C. E.},
+  title = {Uptake of So2(g) By Aqueous Surfaces As A Function of Ph - the Effect
+	of Chemical-reaction At the Interface},
+  journal = {Journal of Physical Chemistry},
+  year = {1990},
+  volume = {94},
+  pages = {6041--6048},
+  number = {15},
+  SN = {0022-3654},
+  TC = {94},
+  UT = {WOS:A1990DQ91200076},
+  owner = {eric},
+  timestamp = {2011.07.04}
 }
 
 @ARTICLE{Johns2011,
@@ -903,10 +994,6 @@
   volume = {110},
   pages = {12789--12795},
   number = {25},
-  SN = {1520-6106},
-  TC = {17},
-  UT = {WOS:000238446900078},
-  __markedentry = {[eric]},
   abstract = {The potential of mean forces (PMF) governing Na+ permeation through
 	gramicidin A (gA) channels with explicit water and membrane was characterized
 	using steered molecular dynamics (SMD) simulations. Constant-force
@@ -945,7 +1032,47 @@
 	permeation studies. },
   doi = {10.1021/jp060688n},
   owner = {eric},
-  timestamp = {2011.06.30}
+  sn = {1520-6106},
+  tc = {17},
+  timestamp = {2011.06.30},
+  ut = {WOS:000238446900078}
+}
+
+@ARTICLE{Madsen2008,
+  author = {Madsen, M. S. and Gross, A. and Falsig, H. and Kongsted, J. and Osted,
+	A. and Mikkelsen, K. V. and Christiansen, O.},
+  title = {Determination of rate constants for the uptake process involving
+	SO2 and an aerosol particle. A quantum mechanics/molecular mechanics
+	and quantum statistical investigation},
+  journal = {Chemical Physics},
+  year = {2008},
+  volume = {348},
+  pages = {21--30},
+  number = {1-3},
+  SN = {0301-0104},
+  TC = {2},
+  UT = {WOS:000256737200003},
+  abstract = {We present a combined quantum mechanics/molecular mechanics and quantum
+	statistical investigation of the interactions between a Molecule
+	(SO2) and an aerosol particle including rate constants for the uptake
+	process. A coupled cluster/molecular mechanics method including explicit
+	polarization is used along with a quantum statistical method for
+	calculating sticking coefficients. The importance of the polarization
+	of the classical subsystem (the aerosol particle), the size of the
+	classical subsystem and the size of one-electron basis sets are studied.
+	The interaction energy is divided into van der Waals, electrostatic
+	and polarization contributions. Relevant binding sites for the evaluation
+	of the sticking coefficient are identified. These are classified
+	into three groups according to the strength of the molecule-aerosol
+	particle interaction energy. The identification of binding sites
+	provides relevant information used in the quantum statistical method
+	and thereby knowledge of the magnitude of the sticking coefficients
+	for the different binding sites along with the total rates for the
+	uptake processes between the aerosol particle and the SO2 molecule.
+	(c) 2008 Elsevier B.V. All rights reserved. },
+  doi = {10.1016/j.chemphys.2008.02.008},
+  owner = {eric},
+  timestamp = {2011.07.04}
 }
 
 @ARTICLE{Matsumoto1988,
@@ -962,6 +1089,22 @@
   owner = {eric},
   timestamp = {2009.03.17},
   unique-id = {ISI:A1988M511200047}
+}
+
+@ARTICLE{Matsumura1989,
+  author = {Matsumura, K. and Lovas, F. J. and Suenram, R. D.},
+  title = {The Microwave-spectrum and Structure of the H2o-so2 Complex},
+  journal = {Journal of Chemical Physics},
+  year = {1989},
+  volume = {91},
+  pages = {5887--5894},
+  number = {10},
+  SN = {0021-9606},
+  TC = {57},
+  UT = {WOS:A1989AY99100003},
+  __markedentry = {[eric]},
+  owner = {eric},
+  timestamp = {2011.07.04}
 }
 
 @ARTICLE{Ota2011,
@@ -1009,9 +1152,6 @@
   volume = {27},
   pages = {1--12},
   number = {1},
-  SN = {0739-1102},
-  TC = {14},
-  UT = {WOS:000268075200001},
   abstract = {Vpu from human immunodeficiency virus type-1 (HIV-1) is an 81 amino
 	acid type I integral membrane protein. Vpu forms ion conducting homooligomeric
 	assemblies. To assess the energy landscape of an ion traversing the
@@ -1027,7 +1167,10 @@
 	the amplitude of the PMF of at least one cation is always the lowest.
 	},
   owner = {eric},
-  timestamp = {2011.06.30}
+  sn = {0739-1102},
+  tc = {14},
+  timestamp = {2011.06.30},
+  ut = {WOS:000268075200001}
 }
 
 @ARTICLE{Radhakrishnan1991,
@@ -1186,7 +1329,7 @@
   ut = {WOS:000278416700011}
 }
 
-@INPROCEEDINGS{SANN1995,
+@INPROCEEDINGS{Sanner1995,
   author = {Michel Sanner and Arthur Olsen and Jean-Claude Spehner},
   title = {Fast and Robust Computation of Molecular Surfaces},
   booktitle = {Proceedings of the 11th ACM Symposium on Computational Geometry},
@@ -1353,7 +1496,7 @@
   unique-id = {ISI:000234259800049}
 }
 
-@MASTERSTHESIS{STON1998,
+@MASTERSTHESIS{Stone1998,
   author = {John Stone},
   title = {{\em An Efficient Library for Parallel Ray Tracing and Animation}},
   school = {Computer Science Department, University of Missouri-Rolla},
@@ -1361,7 +1504,7 @@
   month = {April}
 }
 
-@INPROCEEDINGS{STON2001,
+@INPROCEEDINGS{Stone2001,
   author = {John Stone and Justin Gullingsrud and Paul Grayson and Klaus Schulten},
   title = {A System for Interactive Molecular Dynamics Simulation},
   booktitle = {2001 ACM Symposium on Interactive 3D Graphics},
@@ -1384,12 +1527,6 @@
   year = {2009},
   volume = {116},
   pages = {S156--S159},
-  CL = {Warsaw, POLAND},
-  CT = {3rd National Conference on Nanotechnology},
-  CY = {JUN 22-26, 2009},
-  SN = {0587-4246},
-  TC = {3},
-  UT = {WOS:000274113400044},
   abstract = {We use a single molecule atomic force spectroscopy combined with the
 	steered molecular dynamics simulation to determine a mechanical behavior
 	of neural cell adhesion protein contactin during its unfolding. Force
@@ -1400,8 +1537,14 @@
 	forced transitions within domains were observed for the first time.
 	Steered molecular dynamics simulations help to determine atomistic
 	picture of domain unfolding. },
+  cl = {Warsaw, POLAND},
+  ct = {3rd National Conference on Nanotechnology},
+  cy = {JUN 22-26, 2009},
   owner = {eric},
-  timestamp = {2011.06.30}
+  sn = {0587-4246},
+  tc = {3},
+  timestamp = {2011.06.30},
+  ut = {WOS:000274113400044}
 }
 
 @ARTICLE{Tarbuck2006,
@@ -1552,7 +1695,7 @@
   ut = {WOS:000290870400007}
 }
 
-@ARTICLE{VARSH1994,
+@ARTICLE{Varshney1994,
   author = {A. Varshney and F. P. Brooks and W. V. Wright},
   title = {Linearly Scalable Computation of Smooth Molecular Surfaces},
   journal = {IEEE Computer Graphics and Applications},
@@ -1656,6 +1799,24 @@
   unique-id = {ISI:000251024200011}
 }
 
+@ARTICLE{Worsnop1989,
+  author = {Worsnop, D. R. and Zahniser, M. S. and Kolb, C. E. and Gardner, J.
+	A. and Watson, L. R. and Vandoren, J. M. and Jayne, J. T. and Davidovits,
+	P.},
+  title = {Temperature-dependence of Mass Accommodation of So2 and H2o2 On Aqueous
+	Surfaces},
+  journal = {Journal of Physical Chemistry},
+  year = {1989},
+  volume = {93},
+  pages = {1159--1172},
+  number = {3},
+  SN = {0022-3654},
+  TC = {186},
+  UT = {WOS:A1989T275100027},
+  owner = {eric},
+  timestamp = {2011.07.04}
+}
+
 @ARTICLE{Wu2011,
   author = {Wu, C. M. and Baltrusaitis, J. and Gillan, E. G. and Grassian, V.
 	H.},
@@ -1689,6 +1850,42 @@
   tc = {0},
   timestamp = {2011.06.24},
   ut = {WOS:000290652200042}
+}
+
+@ARTICLE{Yang2002,
+  author = {Yang, H. S. and Wright, N. J. and Gagnon, A. M. and Gerber, R. B.
+	and Finlayson-Pitts, B. J.},
+  title = {An upper limit to the concentration of an SO2 complex at the air
+	water interface at 298 K: infrared experiments and ab initio calculations},
+  journal = {Physical Chemistry Chemical Physics},
+  year = {2002},
+  volume = {4},
+  pages = {1832--1838},
+  number = {10},
+  SN = {1463-9076},
+  TC = {10},
+  UT = {WOS:000175326100021},
+  abstract = {Unique reactions occurring at the interface between air and aqueous
+	solutions are increasingly recognized to be of potential importance
+	in atmospheric processes. Sulfur dioxide was one of the first species
+	for which experimental evidence for the existence of a surface complex
+	was obtained by several different groups, based on the kinetics of
+	SO2 uptake into aqueous solutions, large decreases in surface tension
+	and second harmonic generation spectroscopic studies. The uptake
+	has been proposed to involve an uncharged surface complex which subsequently
+	converts into ionic species. We report here the results of a search
+	for an uncharged SO2 complex at or near the surface using attenuated
+	total reflectance Fourier transform infrared spectrometry (ATR-FTIR)
+	at 298 K guided by ab initio calculations of a 1:1 SO2-H2O complex.
+	No infrared absorption bands attributable to such a complex of SO2
+	were observed experimentally in the expected region, giving an upper
+	bound of 4 x 10(14) SO2 cm(-2) to the concentration of neutral SO2
+	molecules weakly sorbed to the surface in equilibrium with similar
+	to1 atm SO2(g). The implications for the nature of the surface species
+	and previous observations are discussed. },
+  doi = {10.1039/b108907b},
+  owner = {eric},
+  timestamp = {2011.07.04}
 }
 
 @comment{jabref-meta: selector_publisher:}
