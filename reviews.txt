@@ -1,0 +1,25 @@
+Reviewer(s)' Comments to Author:
+
+Reviewer: 1
+
+Recommendation: This paper represents a significant new contribution and should be published as is.
+
+Comments:
+
+This paper described the research on an important subject “Sulfur Dioxide at the Aqueous Solution Surface ”. The physical models are rigorous and careful presented. The manuscript is well written and no doubt will be valuable to broad range of researchers in the chemical and physical chemistry fields as stated in the introduction. For instance, the investigations of the microstructure and dynamics of molecule dissociation in aqueous solutions have long been a scientific interest because of their diverse functions in many chemical and atmostpheric processes.
+
+
+
+
+Reviewer: 2
+
+Recommendation: This paper is probably publishable, but should be reviewed again in revised form before it is accepted.
+
+Comments:
+This is a beautifully written paper that certainly adds insight into an important atmospherically relevant system, SO2 adsorption to water surfaces. Even so, not being an expert of MD simulation (hopefully other reviewers are), I am concerned about 2 things:
+
+1. the Steering MD simulation method itself and its validity for this system
+
+2. the fact that the SO2 was "started" with SO2 in the bulk phase (with added gas phase SO2 in the high conc study). This will have critically important implications and may/will not be representative of an SO2 coming in from the gas phase to the surface (thus realizing why SMD was initiated). I believe that it is not the same (different starting points). The solvation of SO2 may be determining the orientation of the SO2 as it leaves the bulk and resides in the surface region. The authors seem to sidestep this important issue when making their conclusions and I'm not sure this should be done. I believe that this paper could be published but this point needs to be made; the introduction, discussion and conclusions need to bring out this point (not just the experimental section). The paper as is overstates the conclusions by making this nontrivial assumption.  Note that if one takes magnesium ion and begins a simulation with it solvated, the ion will never leave the solvation shell of water. SO2 is not an ion, but hydration will be important.
+
+3. The seminal paper by donaldson, guest, and goh on SHG with SO2 is not referenced and should be, and following work on ab initio studies.
