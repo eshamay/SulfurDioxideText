@@ -1,0 +1,39 @@
+The authors greatly appreciate the detail of the reviews provided, and have made significant changes to the manuscript to incorporate the suggestions, and to clarify the various points raised.
+
+Review #3
+
+1. The suggested literature (Garrett et al. and Wilson) cover many aspects of molecular dynamics simulations and computational techniques used for analysis of gaseous uptake into aqueous surfaces. The work of Garrett, Schenter, and Morita address the landscape of current techniques and water models used, but do not directly address sulfur dioxide uptake in their included analyses. The referenced publications in that work have already been included in our manuscript (see Jayne et al, 1990). Wilson and Pohorille (J. Phys. Chem. B 1997, 101, 3130) look at the adsorption of alcohols to the liquid-vapor interface, and present a refined analysis of the solvation process, but do not address sulfur dioxide uptake or orientation. We believe that although dozens, if not hundreds, of very fine publications have been dedicated to uptake of various species at the air-water interface, referencing extraneous works that do not specifically address sulfur dioxide behavior would detract from our present manuscript. We did not aim for this manuscript to be an exhaustive review of the field of gaseous uptake and solvation processes via molecular dynamics simulations. We have thus limited the scope of our bibliography to include only the most pertinent publication relating to sulfur dioxide behavior.
+
+We believe that our introduction to the manuscript specifically addresses what is and is not known, and how the present work adds to our knowledge of sulfur dioxide behavior. We emphasize here again that our study was not set to be a review of the field of gaseous uptake, but a narrowly defined study of sulfur dioxide orientational behavior on an aqueous surface. Thus we did not include a discussion relating to other gaseous molecules or related systems.
+
+2. The suggestion to use bivariate distributions is appreciated. We have reworked our data and presented the relevant depth-profiles as bivariate plots P($\theta$, $\phi$) showing the specific orientations of water and sulfur dioxide at various depths (slices) throughout the interfacial region.
+
+3. The "Computational Approach" section does not contain any text regarding results or analysis. The section is reserved to define the computational approach, and to define the terminology used regarding depth and orientational analysis.
+
+4. The term "absorption" is used only once in the computational methods section. Regarding the abstract, we have submitted a corrected version.
+
+5. To address the used of the POL3 model with the SO2 model developed by Baer et al, we have submitted a supplemental analysis to be included with the manuscript. We have calculated the radial distribution function of the water-SO2 system to compare the resultant structure and geometries of the interactions between the two types of molecules. Furthermore, we have calculated the SO2-H2O interaction as a function of the S-O separation. Both of these are directly comparable to the results of Baer et al. Our calculations show a nearly identical result to Baer's in both the interaction energy and liquid structure using the POL3 water model. Thus we feel this justifies the use of the more computationally efficient POL3 model.
+
+6. The Henry's law constant has been added to the text.
+
+7. The pressure in the gas region was set initially to 1 atm. The system was then equilibrated until all the gaseous SO2 adsorbed to the water surface, at which point another 1 atm of SO2 was introduced. This procedure was repeated until the gas phase SO2 no longer adsorbed to the surface. This required a total of 50 SO2 molecules introduced in the gas phase. Thus a constant pressure of 1 atm was used throughout equilibration and data collection simulations.
+
+8. We have addressed the technical details in the text.
+
+9. Sections for both the equilibrium MD and the steered MD were specifically included to resolve any doubt regarding the simulations of the two different systems. The text may appear to be redundant, but we are addressing two separate systems that are simulated slightly differently.
+
+10. The terminology has been chosen as the most appropriate descriptor for the system to distinguish the equilibrated system from the steered MD system. System descriptors have been used consistently throughout the manuscript, and we feel that they are appropriate to the current work.
+
+11a. The system was simulated using the NSCM flag in Amber, and the drift still appears. This is not a drift of the entire system, but a slight swelling or movement of the slab over time. The problem is not remedied by the suggested solution.
+
+11b. The same calculation was applied to both surfaces. The surface location was determined as suggested by the reviewer: independently for both surfaces.
+
+12. Text regarding the Gibb's dividing surface has been updated to correct the language used. The manuscript now referes to the width of the water density profile.
+
+13. Hydrogen bond lengths were taken from the radial distribution functions of interfacial waters. The manuscript has been updated by removing the note regarding the "typical bond length".
+
+14c. The profiles were indeed averaged over both interfaces of each simulated slab. It has been noted in the manuscript.
+
+14d. The water penetration into the SO2 layer is discussed at length later in the manuscript. A few sentences regarding this behavior have been added to the section on the density profiles.
+
+15. We have removed this section from the manuscript as we are attempting to limit the scope of our work to the study of SO2 behavior, and not as a review of water models used in various capacities. The results of the current work for the POL3 model used agree well with our previous MD studies employing POL3. We have added in the supplemental section our justification for the use of this model.
