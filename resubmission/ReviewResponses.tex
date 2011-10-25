@@ -1,0 +1,87 @@
+\documentclass{article}
+
+\usepackage {setspace}
+\usepackage [pdftex]{graphicx}
+\usepackage[sort&compress]{achemso}
+
+\usepackage[
+top    = 1.0in,
+bottom = 1.0in]{geometry}
+
+\begin{document}
+
+\newcommand{\suldiox}{SO$_2$}
+\newcommand{\ang}{\,$\textrm{\AA}$}
+\newcommand{\angs}{\ang}
+\newcommand{\wat}{H$_2$O}
+
+%\doublespacing
+
+The authors greatly appreciate the detail of the reviews provided, and have made significant changes to the manuscript to incorporate the suggestions, and to clarify the various points raised. Below are responses to each of the issues raised by the reviewers.
+
+\subsection*{Review 2}
+
+\begin{enumerate}
+
+\item The steered MD technique used in our study is one established previously in the publications referenced in the introduction of the manuscript (26-31). Specifically, the theoretical foundation of the technique was established by Isralewitz (Current opinion in structural biology [0959-440X] Isralewitz yr:2001 vol:11 iss:2 pg:224-230). The technique applies a constant force or velocity to any combination of atoms or atomic subgroups in the system in order to affect a motion. In our SMD simulations, the amount of force applied is very small compared to the intermolecular forces of the aqueous surface, but the applied force is constant, and slowly moves the transiting \suldiox~into the aqueous surface from the gas. We believe the method to be sound, and have experimented with several of the parameters to find a combination that does not artificially bias the geometries and orientations of the atoms involved.
+
+\item In this work we attempted to two distinct studies that involve bulk-solvated \suldiox~as a starting configuration. The first study looks at a single \suldiox~already adsorbed to a water surface (the neat-water system). The aqueous system was then equilibrated with \suldiox~already bound and solvated. Evolution of the system through an extended equilibration resulted in a very surface-active \suldiox, which is the expected result both from our own surface-specific experiments, and from the results of Baer et al, that simulate this system identically (save for the choice of water model used). Thus the initial artificially solvated \suldiox~evolved to a natural location near the aqueous surface following equilibration.
+
+The second study (i.e. the "saturated" system) used the solvated \suldiox~as a starting configuration as well, but with two distinctions from the "neat-water" system. First there were several more \suldiox~molecules in the bulk instead of a single molecule. Secondly, \suldiox~was introduced in the gas-phase as well, and subsequently adsorbed to the water surface during the equilibration phase. Although the starting conditions of bulk solvation in both the neat-water and saturated systems were not necessarily representative of the \suldiox~behavior, the extended equilibration phase of our simulations evolved the \suldiox~to a location and system geometry that is consistent with our experimental results (surface active), and with the results of simulations carried out previously by Baer et al (residual sub-surface \suldiox). Thus, our "surface equilibrated method" finds justification in previous published results.
+
+Regarding the steered MD (SMD), the systems were established and equilibrated in a manner identical to the surface equilibrated method. Although the starting point of the equilibration may not have been representative of an equilibrium system of solvated \suldiox, the configurations at the start of our data collection were what we expected, and what previous studies dictated would occur in terms of \suldiox~location and behavior. The subsequent SMD then introduced \suldiox~from the gas phase, which does not introduce into the system artificial behavior, as \suldiox~gas is known to adsorb from the vapor (as pointed out in the suggested literature of Donaldson et al, below, and from our own experimental studies).
+
+Lastly, because the bond breaking and ionization of the \suldiox~molecules does not occur in classical MD, we do not draw conclusions regarding solvated \suldiox~below the interfacial region in the bulk. We limit the scope of our manuscript to orientation and behavior within the interfacial region. Because of the points listed above, we believe that the artificial introduction of \suldiox~into the bulk water phase is justified, considering the effects of the extensive equilibration process prior to our data collection steps. We have not taken further steps to alter the manuscript in this regard.
+
+\item The work of Donaldson et al has been added to the manuscript. This work had been previously referenced in publications of our group's experimental work with \suldiox~adsorption and hydration detected via SFG techniques. We appreciate the mention of this oversight in the current manuscript.
+
+
+\end{enumerate}
+
+\subsection*{Review 3}
+\begin{enumerate}
+\item The suggested literature review (Wilson and Pohorille, J. Phys. Chem. B 1997, 101, 3130) covers many aspects of molecular dynamics simulations and computational techniques used for analysis of gaseous uptake into aqueous surfaces. The work of Garrett, Schenter, and Morita address the landscape of current techniques and water models used, but neither of them directly address sulfur dioxide uptake in the texts. The referenced publications in that work have already been included in our manuscript (see Jayne et al, 1990). Wilson and Pohorille look at the adsorption of alcohols to the liquid-vapor interface, and present a refined analysis of the solvation process, but do not address sulfur dioxide uptake or orientation. We believe that although dozens, if not hundreds, of very fine publications have been dedicated to uptake of various species at the air-water interface, referencing such works that do not specifically address sulfur dioxide behavior would distract from our present goals set forth in the manuscript. We did not aim for this manuscript to be an exhaustive review of the field of gaseous uptake and solvation processes via molecular dynamics simulations. We have thus limited the scope of our bibliography to include only the most pertinent publication relating to sulfur dioxide behavior, and the relevant techniques.
+
+We believe that our introduction to the manuscript specifically addresses what is and is not known, and how the present work adds to our knowledge of sulfur dioxide behavior in aqueous/vapor interfacial environments. We emphasize here again that our study was not set to be a review of the field of gaseous uptake, but a narrowly defined study of sulfur dioxide orientational behavior on an aqueous surface, and a complement to our experimental studies on the same system. Thus we did not include a discussion relating to other gaseous molecules or related systems. Those discussions have already been published in several of our previous experimental studies that we reference in the manuscript.
+
+\item The suggestion to use bi-variate distributions is appreciated and well made. We have significantly reanalyzed our data sets and presented the relevant depth-profiles as bi-variate plots P($\theta$, $\phi$) showing the specific orientations of water and sulfur dioxide at various depths (slices) throughout the interfacial region. Significant changes have been made to the text to accommodate the new plots.
+
+\item The "Computational Approach" section does not contain any text regarding results or analysis. The section is reserved to define the computational approach used, and to define the terminology used regarding depth and orientational analysis.
+
+\item The term "absorption" is used only once in the computational methods section. Regarding the abstract, we have submitted a corrected version and greatly appreciate mention of this error.
+
+\item To address the used of the POL3 model with the \suldiox~model developed by Baer et al, we have submitted a supplemental analysis to be included with the manuscript. We have calculated the radial distribution functions of the \wat-\suldiox~system to compare the resultant structure and geometries of the interactions between the two types of molecules. Furthermore, we have calculated the \suldiox-\wat~interaction as a function of the S-O separation. The results of both of these analyses are directly comparable to the results of Baer et al. Our calculations show a nearly identical result to Baer's in both the interaction energy and liquid structure using the POL3 water model. Thus we feel this justifies the use of the more computationally efficient POL3 model.
+
+\item The Henry's law constant for \suldiox~in water has been added to the text.
+
+\item The pressure in the gas region was set initially to 1 atm. The system was then equilibrated until all the gaseous \suldiox~adsorbed to the water surface, at which point another 1 atm of \suldiox~was introduced. This procedure was repeated until the gas phase \suldiox~no longer adsorbed to the surface. This required a total of 50 \suldiox~molecules introduced in the gas phase. Thus a constant pressure of 1 atm was used throughout equilibration and data collection simulations. We do not feel that altering the text is a necessary step regarding this point as the bulk of \suldiox~molecules adsorb to the surface and do not remain in gas to contribute to the overall gas pressure. A sentence regarding this was added to the methods section to clarify the procedure.
+
+\item We have addressed the technical details of the simulation conditions in the text of the manuscript.
+
+\item Two methods sections, one each for the surface equilibrated MD and the steered MD, were specifically included to resolve any doubt regarding the simulation conditions of the two different techniques used. The text may appear to be redundant, but we are addressing two separate simulation techniques.
+
+\item The terminology (e.g. "surface equilibrated method") has been chosen as the most appropriate descriptor for the system to clearly distinguish the equilibrated system from the steered MD system. System descriptors have been used consistently throughout the manuscript, and we feel that they are appropriate to the current work.
+
+\item 
+\begin{enumerate}
+\item All simulations were performed using the NSCM flag in Amber, and the surface location drift still occurs. This is not a drift of the entire system center of mass, but a slight swelling or movement of the slab over time. The problem is not remedied by the suggested solution.
+
+\item In all analyses the calculations were applied to both slab surfaces. The surface locations were determined as suggested by the reviewer: independently for both surfaces.
+\end{enumerate}
+
+\item Text regarding the Gibb's dividing surface has been updated to correct the language used. The manuscript now refers to the width of the water density profile instead of the width of the Gibb's dividing surface.
+
+\item Hydrogen bond lengths were taken from the radial distribution functions of interfacial waters. The manuscript has been updated by removing the note regarding the "typical bond length".
+
+\item 
+\begin{enumerate}
+\item All profiles (e.g. density, orientational, etc.) were indeed averaged over both slab surfaces of each simulated slab. It has been noted in the manuscript.
+
+\item The water penetration into the \suldiox~layer is discussed at length later in the manuscript. A few sentences regarding this behavior have been added to the section on the density profiles as suggested.
+\end{enumerate}
+
+\item We have removed this section from the manuscript as we are attempting to limit the scope of our work to the study of \suldiox~behavior, and not as a review of water models used in various capacities. The results of the current work for the POL3 model used agree well with our previous MD studies employing POL3. We have added in the supplemental section our justification for the use of this model.
+
+\end{enumerate}
+
+\end{document}
